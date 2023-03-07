@@ -1,0 +1,1360 @@
+secao;divisao;grupo;classe;subclasse_cod_cnae;desc_cnae;desc_classe
+;1;11;1113;111301;Cultivo de arroz;Cultivo de cereais
+;1;11;1113;111302;Cultivo de milho;Cultivo de cereais
+;1;11;1113;111303;Cultivo de trigo;Cultivo de cereais
+;1;11;1113;111399;Cultivo de outros cereais não especificados anteriormente;Cultivo de cereais
+;1;11;1121;112101;Cultivo de algodão herbáceo;Cultivo de algodão herbáceo e de outras fibras de lavoura temporária
+;1;11;1121;112102;Cultivo de juta;Cultivo de algodão herbáceo e de outras fibras de lavoura temporária
+;1;11;1121;112199;Cultivo de outras fibras de lavoura temporária não especificadas anteriormente;Cultivo de algodão herbáceo e de outras fibras de lavoura temporária
+;1;11;1130;113000;Cultivo de cana-de-açúcar;Cultivo de cana-de-açúcar
+;1;11;1148;114800;Cultivo de fumo;Cultivo de fumo
+;1;11;1156;115600;Cultivo de soja;Cultivo de soja
+;1;11;1164;116401;Cultivo de amendoim;Cultivo de oleaginosas de lavoura temporária, exceto soja
+;1;11;1164;116402;Cultivo de girassol;Cultivo de oleaginosas de lavoura temporária, exceto soja
+;1;11;1164;116403;Cultivo de mamona;Cultivo de oleaginosas de lavoura temporária, exceto soja
+;1;11;1164;116499;Cultivo de outras oleaginosas de lavoura temporária não especificadas anteriormente;Cultivo de oleaginosas de lavoura temporária, exceto soja
+;1;11;1199;119901;Cultivo de abacaxi;Cultivo de plantas de lavoura temporária não especificadas anteriormente
+;1;11;1199;119902;Cultivo de alho;Cultivo de plantas de lavoura temporária não especificadas anteriormente
+;1;11;1199;119903;Cultivo de batata-inglesa;Cultivo de plantas de lavoura temporária não especificadas anteriormente
+;1;11;1199;119904;Cultivo de cebola;Cultivo de plantas de lavoura temporária não especificadas anteriormente
+;1;11;1199;119905;Cultivo de feijão;Cultivo de plantas de lavoura temporária não especificadas anteriormente
+;1;11;1199;119906;Cultivo de mandioca;Cultivo de plantas de lavoura temporária não especificadas anteriormente
+;1;11;1199;119907;Cultivo de melão;Cultivo de plantas de lavoura temporária não especificadas anteriormente
+;1;11;1199;119908;Cultivo de melancia;Cultivo de plantas de lavoura temporária não especificadas anteriormente
+;1;11;1199;119909;Cultivo de tomate rasteiro;Cultivo de plantas de lavoura temporária não especificadas anteriormente
+;1;11;1199;119999;Cultivo de outras plantas de lavoura temporária não especificadas anteriormente;Cultivo de plantas de lavoura temporária não especificadas anteriormente
+;1;12;1211;121101;Horticultura, exceto morango;Horticultura
+;1;12;1211;121102;Cultivo de morango;Horticultura
+;1;12;1229;122900;Cultivo de flores e plantas ornamentais;Cultivo de flores e plantas ornamentais
+;1;13;1318;131800;Cultivo de laranja;Cultivo de laranja
+;1;13;1326;132600;Cultivo de uva;Cultivo de uva
+;1;13;1334;133401;Cultivo de açaí;Cultivo de frutas de lavoura permanente, exceto laranja e uva
+;1;13;1334;133402;Cultivo de banana;Cultivo de frutas de lavoura permanente, exceto laranja e uva
+;1;13;1334;133403;Cultivo de caju;Cultivo de frutas de lavoura permanente, exceto laranja e uva
+;1;13;1334;133404;Cultivo de cítricos, exceto laranja;Cultivo de frutas de lavoura permanente, exceto laranja e uva
+;1;13;1334;133405;Cultivo de coco-da-baía;Cultivo de frutas de lavoura permanente, exceto laranja e uva
+;1;13;1334;133406;Cultivo de guaraná;Cultivo de frutas de lavoura permanente, exceto laranja e uva
+;1;13;1334;133407;Cultivo de maçã;Cultivo de frutas de lavoura permanente, exceto laranja e uva
+;1;13;1334;133408;Cultivo de mamão;Cultivo de frutas de lavoura permanente, exceto laranja e uva
+;1;13;1334;133409;Cultivo de maracujá;Cultivo de frutas de lavoura permanente, exceto laranja e uva
+;1;13;1334;133410;Cultivo de manga;Cultivo de frutas de lavoura permanente, exceto laranja e uva
+;1;13;1334;133411;Cultivo de pêssego;Cultivo de frutas de lavoura permanente, exceto laranja e uva
+;1;13;1334;133499;Cultivo de frutas de lavoura permanente não especificadas anteriormente;Cultivo de frutas de lavoura permanente, exceto laranja e uva
+;1;13;1342;134200;Cultivo de café;Cultivo de café
+;1;13;1351;135100;Cultivo de cacau;Cultivo de cacau
+;1;13;1393;139301;Cultivo de chá-da-índia;Cultivo de plantas de lavoura permanente não especificadas anteriormente
+;1;13;1393;139302;Cultivo de erva-mate;Cultivo de plantas de lavoura permanente não especificadas anteriormente
+;1;13;1393;139303;Cultivo de pimenta-do-reino;Cultivo de plantas de lavoura permanente não especificadas anteriormente
+;1;13;1393;139304;Cultivo de plantas para condimento, exceto pimenta-do-reino;Cultivo de plantas de lavoura permanente não especificadas anteriormente
+;1;13;1393;139305;Cultivo de dendê;Cultivo de plantas de lavoura permanente não especificadas anteriormente
+;1;13;1393;139306;Cultivo de seringueira;Cultivo de plantas de lavoura permanente não especificadas anteriormente
+;1;13;1393;139399;Cultivo de outras plantas de lavoura permanente não especificadas anteriormente;Cultivo de plantas de lavoura permanente não especificadas anteriormente
+;1;14;1415;141501;Produção de sementes certificadas, exceto de forrageiras para pasto;Produção de sementes certificadas
+;1;14;1415;141502;Produção de sementes certificadas de forrageiras para formação de pasto;Produção de sementes certificadas
+;1;14;1423;142300;Produção de mudas e outras formas de propagação vegetal, certificadas;Produção de mudas e outras formas de propagação vegetal, certificadas
+;1;15;1512;151201;Criação de bovinos para corte;Criação de bovinos
+;1;15;1512;151202;Criação de bovinos para leite;Criação de bovinos
+;1;15;1512;151203;Criação de bovinos, exceto para corte e leite;Criação de bovinos
+;1;15;1521;152101;Criação de bufalinos;Criação de outros animais de grande porte
+;1;15;1521;152102;Criação de eqüinos;Criação de outros animais de grande porte
+;1;15;1521;152103;Criação de asininos e muares;Criação de outros animais de grande porte
+;1;15;1539;153901;Criação de caprinos;Criação de caprinos e ovinos
+;1;15;1539;153902;Criação de ovinos, inclusive para produção de lã;Criação de caprinos e ovinos
+;1;15;1547;154700;Criação de suínos;Criação de suínos
+;1;15;1555;155501;Criação de frangos para corte;Criação de aves
+;1;15;1555;155502;Produção de pintos de um dia;Criação de aves
+;1;15;1555;155503;Criação de outros galináceos, exceto para corte;Criação de aves
+;1;15;1555;155504;Criação de aves, exceto galináceos;Criação de aves
+;1;15;1555;155505;Produção de ovos;Criação de aves
+;1;15;1598;159801;Apicultura;Criação de animais não especificados anteriormente
+;1;15;1598;159802;Criação de animais de estimação;Criação de animais não especificados anteriormente
+;1;15;1598;159803;Criação de escargô;Criação de animais não especificados anteriormente
+;1;15;1598;159804;Criação de bicho-da-seda;Criação de animais não especificados anteriormente
+;1;15;1598;159899;Criação de outros animais não especificados anteriormente;Criação de animais não especificados anteriormente
+;1;16;1610;161001;Serviço de pulverização e controle de pragas agrícolas;Atividades de apoio à agricultura
+;1;16;1610;161002;Serviço de poda de árvores para lavouras;Atividades de apoio à agricultura
+;1;16;1610;161003;Serviço de preparação de terreno, cultivo e colheita;Atividades de apoio à agricultura
+;1;16;1610;161099;Atividades de apoio à agricultura não especificadas anteriormente;Atividades de apoio à agricultura
+;1;16;1628;162801;Serviço de inseminação artificial em animais;Atividades de apoio à pecuária
+;1;16;1628;162802;Serviço de tosquiamento de ovinos;Atividades de apoio à pecuária
+;1;16;1628;162803;Serviço de manejo de animais;Atividades de apoio à pecuária
+;1;16;1628;162899;Atividades de apoio à pecuária não especificadas anteriormente;Atividades de apoio à pecuária
+;1;16;1636;163600;Atividades de pós-colheita;Atividades de pós-colheita
+;1;17;1709;170900;Caça e serviços relacionados;Caça e serviços relacionados
+;2;21;2101;210101;Cultivo de eucalipto;Produção florestal - florestas plantadas
+;2;21;2101;210102;Cultivo de acácia-negra;Produção florestal - florestas plantadas
+;2;21;2101;210103;Cultivo de pinus;Produção florestal - florestas plantadas
+;2;21;2101;210104;Cultivo de teca;Produção florestal - florestas plantadas
+;2;21;2101;210105;Cultivo de espécies madeireiras, exceto eucalipto, acácia-negra, pinus e teca;Produção florestal - florestas plantadas
+;2;21;2101;210106;Cultivo de mudas em viveiros florestais;Produção florestal - florestas plantadas
+;2;21;2101;210107;Extração de madeira em florestas plantadas;Produção florestal - florestas plantadas
+;2;21;2101;210108;Produção de carvão vegetal - florestas plantadas;Produção florestal - florestas plantadas
+;2;21;2101;210109;Produção de casca de acácia-negra - florestas plantadas;Produção florestal - florestas plantadas
+;2;21;2101;210199;Produção de produtos não-madeireiros não especificados anteriormente em florestas plantadas;Produção florestal - florestas plantadas
+;2;22;2209;220901;Extração de madeira em florestas nativas;Produção florestal - florestas nativas
+;2;22;2209;220902;Produção de carvão vegetal - florestas nativas;Produção florestal - florestas nativas
+;2;22;2209;220903;Coleta de castanha-do-pará em florestas nativas;Produção florestal - florestas nativas
+;2;22;2209;220904;Coleta de látex em florestas nativas;Produção florestal - florestas nativas
+;2;22;2209;220905;Coleta de palmito em florestas nativas;Produção florestal - florestas nativas
+;2;22;2209;220906;Conservação de florestas nativas;Produção florestal - florestas nativas
+;2;22;2209;220999;Coleta de produtos não-madeireiros não especificados anteriormente em florestas nativas;Produção florestal - florestas nativas
+;2;23;2306;230600;Atividades de apoio à produção florestal;Atividades de apoio à produção florestal
+;3;31;3116;311601;Pesca de peixes em água salgada;Pesca em água salgada
+;3;31;3116;311602;Pesca de crustáceos e moluscos em água salgada;Pesca em água salgada
+;3;31;3116;311603;Coleta de outros produtos marinhos;Pesca em água salgada
+;3;31;3116;311604;Atividades de apoio à pesca em água salgada;Pesca em água salgada
+;3;31;3124;312401;Pesca de peixes em água doce;Pesca em água doce
+;3;31;3124;312402;Pesca de crustáceos e moluscos em água doce;Pesca em água doce
+;3;31;3124;312403;Coleta de outros produtos aquáticos de água doce;Pesca em água doce
+;3;31;3124;312404;Atividades de apoio à pesca em água doce;Pesca em água doce
+;3;32;3213;321301;Criação de peixes em água salgada e salobra;Aqüicultura em água salgada e salobra
+;3;32;3213;321302;Criação de camarões em água salgada e salobra;Aqüicultura em água salgada e salobra
+;3;32;3213;321303;Criação de ostras e mexilhões em água salgada e salobra;Aqüicultura em água salgada e salobra
+;3;32;3213;321304;Criação de peixes ornamentais em água salgada e salobra;Aqüicultura em água salgada e salobra
+;3;32;3213;321305;Atividades de apoio à aqüicultura em água salgada e salobra;Aqüicultura em água salgada e salobra
+;3;32;3213;321399;Cultivos e semicultivos da aqüicultura em água salgada e salobra não especificados anteriormente;Aqüicultura em água salgada e salobra
+;3;32;3221;322101;Criação de peixes em água doce;Aqüicultura em água doce
+;3;32;3221;322102;Criação de camarões em água doce;Aqüicultura em água doce
+;3;32;3221;322103;Criação de ostras e mexilhões em água doce;Aqüicultura em água doce
+;3;32;3221;322104;Criação de peixes ornamentais em água doce;Aqüicultura em água doce
+;3;32;3221;322105;Ranicultura;Aqüicultura em água doce
+;3;32;3221;322106;Criação de jacaré;Aqüicultura em água doce
+;3;32;3221;322107;Atividades de apoio à aqüicultura em água doce;Aqüicultura em água doce
+;3;32;3221;322199;Cultivos e semicultivos da aqüicultura em água doce não especificados anteriormente;Aqüicultura em água doce
+;5;50;5003;500301;Extração de carvão mineral;Extração de carvão mineral
+;5;50;5003;500302;Beneficiamento de carvão mineral;Extração de carvão mineral
+;6;60;6000;600001;Extração de petróleo e gás natural;Extração de petróleo e gás natural
+;6;60;6000;600002;Extração e beneficiamento de xisto;Extração de petróleo e gás natural
+;6;60;6000;600003;Extração e beneficiamento de areias betuminosas;Extração de petróleo e gás natural
+;7;71;7103;710301;Extração de minério de ferro;Extração de minério de ferro
+;7;71;7103;710302;Pelotização, sinterização e outros beneficiamentos de minério de ferro;Extração de minério de ferro
+;7;72;7219;721901;Extração de minério de alumínio;Extração de minério de alumínio
+;7;72;7219;721902;Beneficiamento de minério de alumínio;Extração de minério de alumínio
+;7;72;7227;722701;Extração de minério de estanho;Extração de minério de estanho
+;7;72;7227;722702;Beneficiamento de minério de estanho;Extração de minério de estanho
+;7;72;7235;723501;Extração de minério de manganês;Extração de minério de manganês
+;7;72;7235;723502;Beneficiamento de minério de manganês;Extração de minério de manganês
+;7;72;7243;724301;Extração de minério de metais preciosos;Extração de minério de metais preciosos
+;7;72;7243;724302;Beneficiamento de minério de metais preciosos;Extração de minério de metais preciosos
+;7;72;7251;725100;Extração de minerais radioativos;Extração de minerais radioativos
+;7;72;7294;729401;Extração de minérios de nióbio e titânio;Extração de minerais metálicos não-ferrosos não especificados anteriormente
+;7;72;7294;729402;Extração de minério de tungstênio;Extração de minerais metálicos não-ferrosos não especificados anteriormente
+;7;72;7294;729403;Extração de minério de níquel;Extração de minerais metálicos não-ferrosos não especificados anteriormente
+;7;72;7294;729404;Extração de minérios de cobre, chumbo, zinco e outros minerais metálicos não-ferrosos não especificados anteriormente;Extração de minerais metálicos não-ferrosos não especificados anteriormente
+;7;72;7294;729405;Beneficiamento de minérios de cobre, chumbo, zinco e outros minerais metálicos não-ferrosos não especificados anteriormente;Extração de minerais metálicos não-ferrosos não especificados anteriormente
+;8;81;8100;810001;Extração de ardósia e beneficiamento associado;Extração de pedra, areia e argila
+;8;81;8100;810002;Extração de granito e beneficiamento associado;Extração de pedra, areia e argila
+;8;81;8100;810003;Extração de mármore e beneficiamento associado;Extração de pedra, areia e argila
+;8;81;8100;810004;Extração de calcário e dolomita e beneficiamento associado;Extração de pedra, areia e argila
+;8;81;8100;810005;Extração de gesso e caulim;Extração de pedra, areia e argila
+;8;81;8100;810006;Extração de areia, cascalho ou pedregulho e beneficiamento associado;Extração de pedra, areia e argila
+;8;81;8100;810007;Extração de argila e beneficiamento associado;Extração de pedra, areia e argila
+;8;81;8100;810008;Extração de saibro e beneficiamento associado;Extração de pedra, areia e argila
+;8;81;8100;810009;Extração de basalto e beneficiamento associado;Extração de pedra, areia e argila
+;8;81;8100;810010;Beneficiamento de gesso e caulim associado à extração;Extração de pedra, areia e argila
+;8;81;8100;810099;Extração e britamento de pedras e outros materiais para construção e beneficiamento associado;Extração de pedra, areia e argila
+;8;89;8916;891600;Extração de minerais para fabricação de adubos, fertilizantes e outros produtos químicos;Extração de minerais para fabricação de adubos, fertilizantes e outros produtos químicos
+;8;89;8924;892401;Extração de sal marinho;Extração e refino de sal marinho e sal-gema
+;8;89;8924;892402;Extração de sal-gema;Extração e refino de sal marinho e sal-gema
+;8;89;8924;892403;Refino e outros tratamentos do sal;Extração e refino de sal marinho e sal-gema
+;8;89;8932;893200;Extração de gemas (pedras preciosas e semipreciosas);Extração de gemas (pedras preciosas e semipreciosas)
+;8;89;8991;899101;Extração de grafita;Extração de minerais não-metálicos não especificados anteriormente
+;8;89;8991;899102;Extração de quartzo;Extração de minerais não-metálicos não especificados anteriormente
+;8;89;8991;899103;Extração de amianto;Extração de minerais não-metálicos não especificados anteriormente
+;8;89;8991;899199;Extração de outros minerais não-metálicos não especificados anteriormente;Extração de minerais não-metálicos não especificados anteriormente
+;9;91;9106;910600;Atividades de apoio à extração de petróleo e gás natural;Atividades de apoio à extração de petróleo e gás natural
+;9;99;9904;990401;Atividades de apoio à extração de minério de ferro;Atividades de apoio à extração de minerais, exceto petróleo e gás natural
+;9;99;9904;990402;Atividades de apoio à extração de minerais metálicos não-ferrosos;Atividades de apoio à extração de minerais, exceto petróleo e gás natural
+;9;99;9904;990403;Atividades de apoio à extração de minerais não-metálicos;Atividades de apoio à extração de minerais, exceto petróleo e gás natural
+;1;10;1011;1011201;Frigorífico - abate de bovinos;#N/A
+;1;10;1011;1011202;Frigorífico - abate de eqüinos;#N/A
+;1;10;1011;1011203;Frigorífico - abate de ovinos e caprinos;#N/A
+;1;10;1011;1011204;Frigorífico - abate de bufalinos;#N/A
+;1;10;1011;1011205;Matadouro - abate de reses sob contrato - exceto abate de suínos;#N/A
+;1;10;1012;1012101;Abate de aves;#N/A
+;1;10;1012;1012102;Abate de pequenos animais;#N/A
+;1;10;1012;1012103;Frigorífico - abate de suínos;#N/A
+;1;10;1012;1012104;Matadouro - abate de suínos sob contrato;#N/A
+;1;10;1013;1013901;Fabricação de produtos de carne;#N/A
+;1;10;1013;1013902;Preparação de subprodutos do abate;#N/A
+;1;10;1020;1020101;Preservação de peixes, crustáceos e moluscos;#N/A
+;1;10;1020;1020102;Fabricação de conservas de peixes, crustáceos e moluscos;#N/A
+;1;10;1031;1031700;Fabricação de conservas de frutas;#N/A
+;1;10;1032;1032501;Fabricação de conservas de palmito;#N/A
+;1;10;1032;1032599;Fabricação de conservas de legumes e outros vegetais, exceto palmito;#N/A
+;1;10;1033;1033301;Fabricação de sucos concentrados de frutas, hortaliças e legumes;#N/A
+;1;10;1033;1033302;Fabricação de sucos de frutas, hortaliças e legumes, exceto concentrados;#N/A
+;1;10;1041;1041400;Fabricação de óleos vegetais em bruto, exceto óleo de milho;#N/A
+;1;10;1042;1042200;Fabricação de óleos vegetais refinados, exceto óleo de milho;#N/A
+;1;10;1043;1043100;Fabricação de margarina e outras gorduras vegetais e de óleos não-comestíveis de animais;#N/A
+;1;10;1051;1051100;Preparação do leite;#N/A
+;1;10;1052;1052000;Fabricação de laticínios;#N/A
+;1;10;1053;1053800;Fabricação de sorvetes e outros gelados comestíveis;#N/A
+;1;10;1061;1061901;Beneficiamento de arroz;#N/A
+;1;10;1061;1061902;Fabricação de produtos do arroz;#N/A
+;1;10;1062;1062700;Moagem de trigo e fabricação de derivados;#N/A
+;1;10;1063;1063500;Fabricação de farinha de mandioca e derivados;#N/A
+;1;10;1064;1064300;Fabricação de farinha de milho e derivados, exceto óleos de milho;#N/A
+;1;10;1065;1065101;Fabricação de amidos e féculas de vegetais;#N/A
+;1;10;1065;1065102;Fabricação de óleo de milho em bruto;#N/A
+;1;10;1065;1065103;Fabricação de óleo de milho refinado;#N/A
+;1;10;1066;1066000;Fabricação de alimentos para animais;#N/A
+;1;10;1069;1069400;Moagem e fabricação de produtos de origem vegetal não especificados anteriormente;#N/A
+;1;10;1071;1071600;Fabricação de açúcar em bruto;#N/A
+;1;10;1072;1072401;Fabricação de açúcar de cana refinado;#N/A
+;1;10;1072;1072402;Fabricação de açúcar de cereais (dextrose) e de beterraba;#N/A
+;1;10;1081;1081301;Beneficiamento de café;#N/A
+;1;10;1081;1081302;Torrefação e moagem de café;#N/A
+;1;10;1082;1082100;Fabricação de produtos à base de café;#N/A
+;1;10;1091;1091100;Fabricação de produtos de panificação;#N/A
+;1;10;1091;1091101;Fabricação de produtos de panificação industrial;#N/A
+;1;10;1091;1091102;Fabricação de produtos de padaria e confeitaria com predominância de produção própria;#N/A
+;1;10;1092;1092900;Fabricação de biscoitos e bolachas;#N/A
+;1;10;1093;1093701;Fabricação de produtos derivados do cacau e de chocolates;#N/A
+;1;10;1093;1093702;Fabricação de frutas cristalizadas, balas e semelhantes;#N/A
+;1;10;1094;1094500;Fabricação de massas alimentícias;#N/A
+;1;10;1095;1095300;Fabricação de especiarias, molhos, temperos e condimentos;#N/A
+;1;10;1096;1096100;Fabricação de alimentos e pratos prontos;#N/A
+;1;10;1099;1099601;Fabricação de vinagres;#N/A
+;1;10;1099;1099602;Fabricação de pós alimentícios;#N/A
+;1;10;1099;1099603;Fabricação de fermentos e leveduras;#N/A
+;1;10;1099;1099604;Fabricação de gelo comum;#N/A
+;1;10;1099;1099605;Fabricação de produtos para infusão (chá, mate, etc.);#N/A
+;1;10;1099;1099606;Fabricação de adoçantes naturais e artificiais;#N/A
+;1;10;1099;1099607;Fabricação de alimentos dietéticos e complementos alimentares;#N/A
+;1;10;1099;1099699;Fabricação de outros produtos alimentícios não especificados anteriormente;#N/A
+;1;11;1111;1111901;Fabricação de aguardente de cana-de-açúcar;#N/A
+;1;11;1111;1111902;Fabricação de outras aguardentes e bebidas destiladas;#N/A
+;1;11;1112;1112700;Fabricação de vinho;#N/A
+;1;11;1113;1113501;Fabricação de malte, inclusive malte uísque;Cultivo de cereais
+;1;11;1113;1113502;Fabricação de cervejas e chopes;Cultivo de cereais
+;1;11;1121;1121600;Fabricação de águas envasadas;Cultivo de algodão herbáceo e de outras fibras de lavoura temporária
+;1;11;1122;1122401;Fabricação de refrigerantes;#N/A
+;1;11;1122;1122402;Fabricação de chá mate e outros chás prontos para consumo;#N/A
+;1;11;1122;1122403;Fabricação de refrescos, xaropes e pós para refrescos, exceto refrescos de frutas;#N/A
+;1;11;1122;1122404;Fabricação de bebidas isotônicas;#N/A
+;1;11;1122;1122499;Fabricação de outras bebidas não-alcoólicas não especificadas anteriormente;#N/A
+;1;12;1210;1210700;Processamento industrial do fumo;#N/A
+;1;12;1220;1220401;Fabricação de cigarros;#N/A
+;1;12;1220;1220402;Fabricação de cigarrilhas e charutos;#N/A
+;1;12;1220;1220403;Fabricação de filtros para cigarros;#N/A
+;1;12;1220;1220499;Fabricação de outros produtos do fumo, exceto cigarros, cigarrilhas e charutos;#N/A
+;1;13;1311;1311100;Preparação e fiação de fibras de algodão;#N/A
+;1;13;1312;1312000;Preparação e fiação de fibras têxteis naturais, exceto algodão;#N/A
+;1;13;1313;1313800;Fiação de fibras artificiais e sintéticas;#N/A
+;1;13;1314;1314600;Fabricação de linhas para costurar e bordar;#N/A
+;1;13;1321;1321900;Tecelagem de fios de algodão;#N/A
+;1;13;1322;1322700;Tecelagem de fios de fibras têxteis naturais, exceto algodão;#N/A
+;1;13;1323;1323500;Tecelagem de fios de fibras artificiais e sintéticas;#N/A
+;1;13;1330;1330800;Fabricação de tecidos de malha;#N/A
+;1;13;1340;1340501;Estamparia e texturização em fios, tecidos, artefatos têxteis e peças do vestuário;#N/A
+;1;13;1340;1340502;Alvejamento, tingimento e torção em fios, tecidos, artefatos têxteis e peças do vestuário;#N/A
+;1;13;1340;1340599;Outros serviços de acabamento em fios, tecidos, artefatos têxteis e peças do vestuário;#N/A
+;1;13;1351;1351100;Fabricação de artefatos têxteis para uso doméstico;Cultivo de cacau
+;1;13;1352;1352900;Fabricação de artefatos de tapeçaria;#N/A
+;1;13;1353;1353700;Fabricação de artefatos de cordoaria;#N/A
+;1;13;1354;1354500;Fabricação de tecidos especiais, inclusive artefatos;#N/A
+;1;13;1359;1359600;Fabricação de outros produtos têxteis não especificados anteriormente;#N/A
+;1;14;1411;1411801;Confecção de roupas íntimas;#N/A
+;1;14;1411;1411802;Facção de roupas íntimas;#N/A
+;1;14;1412;1412601;Confecção de peças de vestuário, exceto roupas íntimas e as confeccionadas sob medida;#N/A
+;1;14;1412;1412602;Confecção, sob medida, de peças do vestuário, exceto roupas íntimas;#N/A
+;1;14;1412;1412603;Facção de peças do vestuário, exceto roupas íntimas;#N/A
+;1;14;1413;1413401;Confecção de roupas profissionais, exceto sob medida;#N/A
+;1;14;1413;1413402;Confecção, sob medida, de roupas profissionais;#N/A
+;1;14;1413;1413403;Facção de roupas profissionais;#N/A
+;1;14;1414;1414200;Fabricação de acessórios do vestuário, exceto para segurança e proteção;#N/A
+;1;14;1421;1421500;Fabricação de meias;#N/A
+;1;14;1422;1422300;Fabricação de artigos do vestuário, produzidos em malharias e tricotagens, exceto meias;#N/A
+;1;15;1510;1510600;Curtimento e outras preparações de couro;#N/A
+;1;15;1521;1521100;Fabricação de artigos para viagem, bolsas e semelhantes de qualquer material;Criação de outros animais de grande porte
+;1;15;1529;1529700;Fabricação de artefatos de couro não especificados anteriormente;#N/A
+;1;15;1531;1531901;Fabricação de calçados de couro;#N/A
+;1;15;1531;1531902;Acabamento de calçados de couro sob contrato;#N/A
+;1;15;1532;1532700;Fabricação de tênis de qualquer material;#N/A
+;1;15;1533;1533500;Fabricação de calçados de material sintético;#N/A
+;1;15;1539;1539400;Fabricação de calçados de materiais não especificados anteriormente;Criação de caprinos e ovinos
+;1;15;1540;1540800;Fabricação de partes para calçados, de qualquer material;#N/A
+;1;16;1610;1610201;Serrarias com desdobramento de madeira;Atividades de apoio à agricultura
+;1;16;1610;1610202;Serrarias sem desdobramento de madeira;Atividades de apoio à agricultura
+;1;16;1610;1610203;Serrarias com desdobramento de madeira em bruto;Atividades de apoio à agricultura
+;1;16;1610;1610204;Serrarias sem desdobramento de madeira em bruto  -Resserragem;Atividades de apoio à agricultura
+;1;16;1610;1610205;Serviço de tratamento de madeira realizado sob contrato;Atividades de apoio à agricultura
+;1;16;1621;1621800;Fabricação de madeira laminada e de chapas de madeira compensada, prensada e aglomerada;#N/A
+;1;16;1622;1622601;Fabricação de casas de madeira pré-fabricadas;#N/A
+;1;16;1622;1622602;Fabricação de esquadrias de madeira e de peças de madeira para instalações industriais e comerciais;#N/A
+;1;16;1622;1622699;Fabricação de outros artigos de carpintaria para construção;#N/A
+;1;16;1623;1623400;Fabricação de artefatos de tanoaria e de embalagens de madeira;#N/A
+;1;16;1629;1629301;Fabricação de artefatos diversos de madeira, exceto móveis;#N/A
+;1;16;1629;1629302;Fabricação de artefatos diversos de cortiça, bambu, palha, vime e outros materiais trançados, exceto móveis;#N/A
+;1;17;1710;1710900;Fabricação de celulose e outras pastas para a fabricação de papel;#N/A
+;1;17;1721;1721400;Fabricação de papel;#N/A
+;1;17;1722;1722200;Fabricação de cartolina e papel-cartão;#N/A
+;1;17;1731;1731100;Fabricação de embalagens de papel;#N/A
+;1;17;1732;1732000;Fabricação de embalagens de cartolina e papel-cartão;#N/A
+;1;17;1733;1733800;Fabricação de chapas e de embalagens de papelão ondulado;#N/A
+;1;17;1741;1741901;Fabricação de formulários contínuos;#N/A
+;1;17;1741;1741902;Fabricação de produtos de papel, cartolina, papel cartão e papelão ondulado para uso comercial e de escritório, exceto formulário contínuo;#N/A
+;1;17;1742;1742701;Fabricação de fraldas descartáveis;#N/A
+;1;17;1742;1742702;Fabricação de absorventes higiênicos;#N/A
+;1;17;1742;1742799;Fabricação de produtos de papel para uso doméstico e higiênico-sanitário não especificados anteriormente;#N/A
+;1;17;1749;1749400;Fabricação de produtos de pastas celulósicas, papel, cartolina, papel-cartão e papelão ondulado não especificados anteriormente;#N/A
+;1;18;1811;1811301;Impressão de jornais;#N/A
+;1;18;1811;1811302;Impressão de livros, revistas e outras publicações periódicas;#N/A
+;1;18;1812;1812100;Impressão de material de segurança;#N/A
+;1;18;1813;1813001;Impressão de material para uso publicitário;#N/A
+;1;18;1813;1813099;Impressão de material para outros usos;#N/A
+;1;18;1821;1821100;Serviços de pré-impressão;#N/A
+;1;18;1822;1822900;Serviços de acabamentos gráficos;#N/A
+;1;18;1822;1822901;Serviços de encadernação e plastificação;#N/A
+;1;18;1822;1822999;Serviços de acabamentos gráficos, exceto encadernação e plastificação;#N/A
+;1;18;1830;1830001;Reprodução de som em qualquer suporte;#N/A
+;1;18;1830;1830002;Reprodução de vídeo em qualquer suporte;#N/A
+;1;18;1830;1830003;Reprodução de software em qualquer suporte;#N/A
+;1;19;1910;1910100;Coquerias;#N/A
+;1;19;1921;1921700;Fabricação de produtos do refino de petróleo;#N/A
+;1;19;1922;1922501;Formulação de combustíveis;#N/A
+;1;19;1922;1922502;Rerrefino de óleos lubrificantes;#N/A
+;1;19;1922;1922599;Fabricação de outros produtos derivados do petróleo, exceto produtos do refino;#N/A
+;1;19;1931;1931400;Fabricação de álcool;#N/A
+;1;19;1932;1932200;Fabricação de biocombustíveis, exceto álcool;#N/A
+;2;20;2011;2011800;Fabricação de cloro e álcalis;#N/A
+;2;20;2012;2012600;Fabricação de intermediários para fertilizantes;#N/A
+;2;20;2013;2013400;Fabricação de adubos e fertilizantes;#N/A
+;2;20;2013;2013401;Fabricação de adubos e fertilizantes organo-minerais;#N/A
+;2;20;2013;2013402;Fabricação de adubos e fertilizantes, exceto organo-minerais;#N/A
+;2;20;2014;2014200;Fabricação de gases industriais;#N/A
+;2;20;2019;2019301;Elaboração de combustíveis nucleares;#N/A
+;2;20;2019;2019399;Fabricação de outros produtos químicos inorgânicos não especificados anteriormente;#N/A
+;2;20;2021;2021500;Fabricação de produtos petroquímicos básicos;#N/A
+;2;20;2022;2022300;Fabricação de intermediários para plastificantes, resinas e fibras;#N/A
+;2;20;2029;2029100;Fabricação de produtos químicos orgânicos não especificados anteriormente;#N/A
+;2;20;2031;2031200;Fabricação de resinas termoplásticas;#N/A
+;2;20;2032;2032100;Fabricação de resinas termofixas;#N/A
+;2;20;2033;2033900;Fabricação de elastômeros;#N/A
+;2;20;2040;2040100;Fabricação de fibras artificiais e sintéticas;#N/A
+;2;20;2051;2051700;Fabricação de defensivos agrícolas;#N/A
+;2;20;2052;2052500;Fabricação de desinfestantes domissanitários;#N/A
+;2;20;2061;2061400;Fabricação de sabões e detergentes sintéticos;#N/A
+;2;20;2062;2062200;Fabricação de produtos de limpeza e polimento;#N/A
+;2;20;2063;2063100;Fabricação de cosméticos, produtos de perfumaria e de higiene pessoal;#N/A
+;2;20;2071;2071100;Fabricação de tintas, vernizes, esmaltes e lacas;#N/A
+;2;20;2072;2072000;Fabricação de tintas de impressão;#N/A
+;2;20;2073;2073800;Fabricação de impermeabilizantes, solventes e produtos afins;#N/A
+;2;20;2091;2091600;Fabricação de adesivos e selantes;#N/A
+;2;20;2092;2092401;Fabricação de pólvoras, explosivos e detonantes;#N/A
+;2;20;2092;2092402;Fabricação de artigos pirotécnicos;#N/A
+;2;20;2092;2092403;Fabricação de fósforos de segurança;#N/A
+;2;20;2093;2093200;Fabricação de aditivos de uso industrial;#N/A
+;2;20;2094;2094100;Fabricação de catalisadores;#N/A
+;2;20;2099;2099101;Fabricação de chapas, filmes, papéis e outros materiais e produtos químicos para fotografia;#N/A
+;2;20;2099;2099199;Fabricação de outros produtos químicos não especificados anteriormente;#N/A
+;2;21;2110;2110600;Fabricação de produtos farmoquímicos;#N/A
+;2;21;2121;2121101;Fabricação de medicamentos alopáticos para uso humano;#N/A
+;2;21;2121;2121102;Fabricação de medicamentos homeopáticos para uso humano;#N/A
+;2;21;2121;2121103;Fabricação de medicamentos fitoterápicos para uso humano;#N/A
+;2;21;2122;2122000;Fabricação de medicamentos para uso veterinário;#N/A
+;2;21;2123;2123800;Fabricação de preparações farmacêuticas;#N/A
+;2;22;2211;2211100;Fabricação de pneumáticos e de câmaras-de-ar;#N/A
+;2;22;2212;2212900;Reforma de pneumáticos usados;#N/A
+;2;22;2219;2219600;Fabricação de artefatos de borracha não especificados anteriormente;#N/A
+;2;22;2221;2221800;Fabricação de laminados planos e tubulares de material plástico;#N/A
+;2;22;2222;2222600;Fabricação de embalagens de material plástico;#N/A
+;2;22;2223;2223400;Fabricação de tubos e acessórios de material plástico para uso na construção;#N/A
+;2;22;2229;2229301;Fabricação de artefatos de material plástico para uso pessoal e doméstico;#N/A
+;2;22;2229;2229302;Fabricação de artefatos de material plástico para usos industriais;#N/A
+;2;22;2229;2229303;Fabricação de artefatos de material plástico para uso na construção, exceto tubos e acessórios;#N/A
+;2;22;2229;2229399;Fabricação de artefatos de material plástico para outros usos não especificados anteriormente;#N/A
+;2;23;2311;2311700;Fabricação de vidro plano e de segurança;#N/A
+;2;23;2312;2312500;Fabricação de embalagens de vidro;#N/A
+;2;23;2319;2319200;Fabricação de artigos de vidro;#N/A
+;2;23;2320;2320600;Fabricação de cimento;#N/A
+;2;23;2330;2330301;Fabricação de estruturas pré-moldadas de concreto armado, em série e sob encomenda;#N/A
+;2;23;2330;2330302;Fabricação de artefatos de cimento para uso na construção;#N/A
+;2;23;2330;2330303;Fabricação de artefatos de fibrocimento para uso na construção;#N/A
+;2;23;2330;2330304;Fabricação de casas pré-moldadas de concreto;#N/A
+;2;23;2330;2330305;Preparação de massa de concreto e argamassa para construção;#N/A
+;2;23;2330;2330399;Fabricação de outros artefatos e produtos de concreto, cimento, fibrocimento, gesso e materiais semelhantes;#N/A
+;2;23;2341;2341900;Fabricação de produtos cerâmicos refratários;#N/A
+;2;23;2342;2342701;Fabricação de azulejos e pisos;#N/A
+;2;23;2342;2342702;Fabricação de artefatos de cerâmica e barro cozido para uso na construção, exceto azulejos e pisos;#N/A
+;2;23;2349;2349401;Fabricação de material sanitário de cerâmica;#N/A
+;2;23;2349;2349499;Fabricação de produtos cerâmicos não-refratários não especificados anteriormente;#N/A
+;2;23;2391;2391501;Britamento de pedras, exceto associado à extração;#N/A
+;2;23;2391;2391502;Aparelhamento de pedras para construção, exceto associado à extração;#N/A
+;2;23;2391;2391503;Aparelhamento de placas e execução de trabalhos em mármore, granito, ardósia e outras pedras;#N/A
+;2;23;2392;2392300;Fabricação de cal e gesso;#N/A
+;2;23;2399;2399101;Decoração, lapidação, gravação, vitrificação e outros trabalhos em cerâmica, louça, vidro e cristal;#N/A
+;2;23;2399;2399102;Fabricação de abrasivos;#N/A
+;2;23;2399;2399199;Fabricação de outros produtos de minerais não-metálicos não especificados anteriormente;#N/A
+;2;24;2411;2411300;Produção de ferro-gusa;#N/A
+;2;24;2412;2412100;Produção de ferroligas;#N/A
+;2;24;2421;2421100;Produção de semi-acabados de aço;#N/A
+;2;24;2422;2422901;Produção de laminados planos de aço ao carbono, revestidos ou não;#N/A
+;2;24;2422;2422902;Produção de laminados planos de aços especiais;#N/A
+;2;24;2423;2423701;Produção de tubos de aço sem costura;#N/A
+;2;24;2423;2423702;Produção de laminados longos de aço, exceto tubos;#N/A
+;2;24;2424;2424501;Produção de arames de aço;#N/A
+;2;24;2424;2424502;Produção de relaminados, trefilados e perfilados de aço, exceto arames;#N/A
+;2;24;2431;2431800;Produção de tubos de aço com costura;#N/A
+;2;24;2439;2439300;Produção de outros tubos de ferro e aço;#N/A
+;2;24;2441;2441501;Produção de alumínio e suas ligas em formas primárias;#N/A
+;2;24;2441;2441502;Produção de laminados de alumínio;#N/A
+;2;24;2442;2442300;Metalurgia dos metais preciosos;#N/A
+;2;24;2443;2443100;Metalurgia do cobre;#N/A
+;2;24;2449;2449101;Produção de zinco em formas primárias;#N/A
+;2;24;2449;2449102;Produção de laminados de zinco;#N/A
+;2;24;2449;2449103;Fabricação de ânodos para galvanoplastia;#N/A
+;2;24;2449;2449199;Metalurgia de outros metais não-ferrosos e suas ligas não especificados anteriormente;#N/A
+;2;24;2451;2451200;Fundição de ferro e aço;#N/A
+;2;24;2452;2452100;Fundição de metais não-ferrosos e suas ligas;#N/A
+;2;25;2511;2511000;Fabricação de estruturas metálicas;#N/A
+;2;25;2512;2512800;Fabricação de esquadrias de metal;#N/A
+;2;25;2513;2513600;Fabricação de obras de caldeiraria pesada;#N/A
+;2;25;2521;2521700;Fabricação de tanques, reservatórios metálicos e caldeiras para aquecimento central;#N/A
+;2;25;2522;2522500;Fabricação de caldeiras geradoras de vapor, exceto para aquecimento central e para veículos;#N/A
+;2;25;2531;2531401;Produção de forjados de aço;#N/A
+;2;25;2531;2531402;Produção de forjados de metais não-ferrosos e suas ligas;#N/A
+;2;25;2532;2532201;Produção de artefatos estampados de metal;#N/A
+;2;25;2532;2532202;Metalurgia do pó;#N/A
+;2;25;2539;2539000;Serviços de usinagem, solda, tratamento e revestimento em metais;#N/A
+;2;25;2539;2539001;Serviços de usinagem, tornearia e solda;#N/A
+;2;25;2539;2539002;Serviços de tratamento e revestimento em metais;#N/A
+;2;25;2541;2541100;Fabricação de artigos de cutelaria;#N/A
+;2;25;2542;2542000;Fabricação de artigos de serralheria, exceto esquadrias;#N/A
+;2;25;2543;2543800;Fabricação de ferramentas;#N/A
+;2;25;2550;2550101;Fabricação de equipamento bélico pesado, exceto veículos militares de combate;#N/A
+;2;25;2550;2550102;Fabricação de armas de fogo, outras armas e munições;#N/A
+;2;25;2591;2591800;Fabricação de embalagens metálicas;#N/A
+;2;25;2592;2592601;Fabricação de produtos de trefilados de metal padronizados;#N/A
+;2;25;2592;2592602;Fabricação de produtos de trefilados de metal, exceto padronizados;#N/A
+;2;25;2593;2593400;Fabricação de artigos de metal para uso doméstico e pessoal;#N/A
+;2;25;2599;2599301;Serviços de confecção de armações metálicas para a construção;#N/A
+;2;25;2599;2599302;Serviço de corte e dobra de metais;#N/A
+;2;25;2599;2599399;Fabricação de outros produtos de metal não especificados anteriormente;#N/A
+;2;26;2610;2610800;Fabricação de componentes eletrônicos;#N/A
+;2;26;2621;2621300;Fabricação de equipamentos de informática;#N/A
+;2;26;2622;2622100;Fabricação de periféricos para equipamentos de informática;#N/A
+;2;26;2631;2631100;Fabricação de equipamentos transmissores de comunicação, peças e acessórios;#N/A
+;2;26;2632;2632900;Fabricação de aparelhos telefônicos e de outros equipamentos de comunicação, peças e acessórios;#N/A
+;2;26;2640;2640000;Fabricação de aparelhos de recepção, reprodução, gravação e amplificação de áudio e vídeo;#N/A
+;2;26;2651;2651500;Fabricação de aparelhos e equipamentos de medida, teste e controle;#N/A
+;2;26;2652;2652300;Fabricação de cronômetros e relógios;#N/A
+;2;26;2660;2660400;Fabricação de aparelhos eletromédicos e eletroterapêuticos e equipamentos de irradiação;#N/A
+;2;26;2670;2670101;Fabricação de equipamentos e instrumentos ópticos, peças e acessórios;#N/A
+;2;26;2670;2670102;Fabricação de aparelhos fotográficos e cinematográficos, peças e acessórios;#N/A
+;2;26;2680;2680900;Fabricação de mídias virgens, magnéticas e ópticas;#N/A
+;2;27;2710;2710401;Fabricação de geradores de corrente contínua e alternada, peças e acessórios;#N/A
+;2;27;2710;2710402;Fabricação de transformadores, indutores, conversores, sincronizadores e semelhantes, peças e acessórios;#N/A
+;2;27;2710;2710403;Fabricação de motores elétricos, peças e acessórios;#N/A
+;2;27;2721;2721000;Fabricação de pilhas, baterias e acumuladores elétricos, exceto para veículos automotores;#N/A
+;2;27;2722;2722801;Fabricação de baterias e acumuladores para veículos automotores;#N/A
+;2;27;2722;2722802;Recondicionamento de baterias e acumuladores para veículos automotores;#N/A
+;2;27;2731;2731700;Fabricação de aparelhos e equipamentos para distribuição e controle de energia elétrica;#N/A
+;2;27;2732;2732500;Fabricação de material elétrico para instalações em circuito de consumo;#N/A
+;2;27;2733;2733300;Fabricação de fios, cabos e condutores elétricos isolados;#N/A
+;2;27;2740;2740601;Fabricação de lâmpadas;#N/A
+;2;27;2740;2740602;Fabricação de luminárias e outros equipamentos de iluminação;#N/A
+;2;27;2751;2751100;Fabricação de fogões, refrigeradores e máquinas de lavar e secar para uso doméstico, peças e acessórios;#N/A
+;2;27;2759;2759701;Fabricação de aparelhos elétricos de uso pessoal, peças e acessórios;#N/A
+;2;27;2759;2759799;Fabricação de outros aparelhos eletrodomésticos não especificados anteriormente, peças e acessórios;#N/A
+;2;27;2790;2790201;Fabricação de eletrodos, contatos e outros artigos de carvão e grafita para uso elétrico, eletroímãs e isoladores;#N/A
+;2;27;2790;2790202;Fabricação de equipamentos para sinalização e alarme;#N/A
+;2;27;2790;2790299;Fabricação de outros equipamentos e aparelhos elétricos não especificados anteriormente;#N/A
+;2;28;2811;2811900;Fabricação de motores e turbinas, peças e acessórios, exceto para aviões e veículos rodoviários;#N/A
+;2;28;2812;2812700;Fabricação de equipamentos hidráulicos e pneumáticos, peças e acessórios, exceto válvulas;#N/A
+;2;28;2813;2813500;Fabricação de válvulas, registros e dispositivos semelhantes, peças e acessórios;#N/A
+;2;28;2814;2814301;Fabricação de compressores para uso industrial, peças e acessórios;#N/A
+;2;28;2814;2814302;Fabricação de compressores para uso não industrial, peças e acessórios;#N/A
+;2;28;2815;2815101;Fabricação de rolamentos para fins industriais;#N/A
+;2;28;2815;2815102;Fabricação de equipamentos de transmissão para fins industriais, exceto rolamentos;#N/A
+;2;28;2821;2821601;Fabricação de fornos industriais, aparelhos e equipamentos não-elétricos para instalações térmicas, peças e acessórios;#N/A
+;2;28;2821;2821602;Fabricação de estufas e fornos elétricos para fins industriais, peças e acessórios;#N/A
+;2;28;2822;2822401;Fabricação de máquinas, equipamentos e aparelhos para transporte e elevação de pessoas, peças e acessórios;#N/A
+;2;28;2822;2822402;Fabricação de máquinas, equipamentos e aparelhos para transporte e elevação de cargas, peças e acessórios;#N/A
+;2;28;2823;2823200;Fabricação de máquinas e aparelhos de refrigeração e ventilação para uso industrial e comercial, peças e acessórios;#N/A
+;2;28;2824;2824101;Fabricação de aparelhos e equipamentos de ar condicionado para uso industrial;#N/A
+;2;28;2824;2824102;Fabricação de aparelhos e equipamentos de ar condicionado para uso não-industrial;#N/A
+;2;28;2825;2825900;Fabricação de máquinas e equipamentos para saneamento básico e ambiental, peças e acessórios;#N/A
+;2;28;2829;2829101;Fabricação de máquinas de escrever, calcular e outros equipamentos não-eletrônicos para escritório, peças e acessórios;#N/A
+;2;28;2829;2829199;Fabricação de outras máquinas e equipamentos de uso geral não especificados anteriormente, peças e acessórios;#N/A
+;2;28;2831;2831300;Fabricação de tratores agrícolas, peças e acessórios;#N/A
+;2;28;2832;2832100;Fabricação de equipamentos para irrigação agrícola, peças e acessórios;#N/A
+;2;28;2833;2833000;Fabricação de máquinas e equipamentos para a agricultura e pecuária, peças e acessórios, exceto para irrigação;#N/A
+;2;28;2840;2840200;Fabricação de máquinas-ferramenta, peças e acessórios;#N/A
+;2;28;2851;2851800;Fabricação de máquinas e equipamentos para a prospecção e extração de petróleo, peças e acessórios;#N/A
+;2;28;2852;2852600;Fabricação de outras máquinas e equipamentos para uso na extração mineral, peças e acessórios, exceto na extração de petróleo;#N/A
+;2;28;2853;2853400;Fabricação de tratores, peças e acessórios, exceto agrícolas;#N/A
+;2;28;2854;2854200;Fabricação de máquinas e equipamentos para terraplenagem, pavimentação e construção, peças e acessórios, exceto tratores;#N/A
+;2;28;2861;2861500;Fabricação de máquinas para a indústria metalúrgica, peças e acessórios, exceto máquinas-ferramenta;#N/A
+;2;28;2862;2862300;Fabricação de máquinas e equipamentos para as indústrias de alimentos, bebidas e fumo, peças e acessórios;#N/A
+;2;28;2863;2863100;Fabricação de máquinas e equipamentos para a indústria têxtil, peças e acessórios;#N/A
+;2;28;2864;2864000;Fabricação de máquinas e equipamentos para as indústrias do vestuário, do couro e de calçados, peças e acessórios;#N/A
+;2;28;2865;2865800;Fabricação de máquinas e equipamentos para as indústrias de celulose, papel e papelão e artefatos, peças e acessórios;#N/A
+;2;28;2866;2866600;Fabricação de máquinas e equipamentos para a indústria do plástico, peças e acessórios;#N/A
+;2;28;2869;2869100;Fabricação de máquinas e equipamentos para uso industrial específico não especificados anteriormente, peças e acessórios;#N/A
+;2;29;2910;2910701;Fabricação de automóveis, camionetas e utilitários;#N/A
+;2;29;2910;2910702;Fabricação de chassis com motor para automóveis, camionetas e utilitários;#N/A
+;2;29;2910;2910703;Fabricação de motores para automóveis, camionetas e utilitários;#N/A
+;2;29;2920;2920401;Fabricação de caminhões e ônibus;#N/A
+;2;29;2920;2920402;Fabricação de motores para caminhões e ônibus;#N/A
+;2;29;2930;2930101;Fabricação de cabines, carrocerias e reboques para caminhões;#N/A
+;2;29;2930;2930102;Fabricação de carrocerias para ônibus;#N/A
+;2;29;2930;2930103;Fabricação de cabines, carrocerias e reboques para outros veículos automotores, exceto caminhões e ônibus;#N/A
+;2;29;2941;2941700;Fabricação de peças e acessórios para o sistema motor de veículos automotores;#N/A
+;2;29;2942;2942500;Fabricação de peças e acessórios para os sistemas de marcha e transmissão de veículos automotores;#N/A
+;2;29;2943;2943300;Fabricação de peças e acessórios para o sistema de freios de veículos automotores;#N/A
+;2;29;2944;2944100;Fabricação de peças e acessórios para o sistema de direção e suspensão de veículos automotores;#N/A
+;2;29;2945;2945000;Fabricação de material elétrico e eletrônico para veículos automotores, exceto baterias;#N/A
+;2;29;2949;2949201;Fabricação de bancos e estofados para veículos automotores;#N/A
+;2;29;2949;2949299;Fabricação de outras peças e acessórios para veículos automotores não especificadas anteriormente;#N/A
+;2;29;2950;2950600;Recondicionamento e recuperação de motores para veículos automotores;#N/A
+;3;30;3011;3011301;Construção de embarcações de grande porte;#N/A
+;3;30;3011;3011302;Construção de embarcações para uso comercial e para usos especiais, exceto de grande porte;#N/A
+;3;30;3012;3012100;Construção de embarcações para esporte e lazer;#N/A
+;3;30;3031;3031800;Fabricação de locomotivas, vagões e outros materiais rodantes;#N/A
+;3;30;3032;3032600;Fabricação de peças e acessórios para veículos ferroviários;#N/A
+;3;30;3041;3041500;Fabricação de aeronaves;#N/A
+;3;30;3042;3042300;Fabricação de turbinas, motores e outros componentes e peças para aeronaves;#N/A
+;3;30;3050;3050400;Fabricação de veículos militares de combate;#N/A
+;3;30;3091;3091100;Fabricação de motocicletas, peças e acessórios;#N/A
+;3;30;3091;3091101;Fabricação de motocicletas;#N/A
+;3;30;3091;3091102;Fabricação de peças e acessórios para motocicletas;#N/A
+;3;30;3092;3092000;Fabricação de bicicletas e triciclos não-motorizados, peças e acessórios;#N/A
+;3;30;3099;3099700;Fabricação de equipamentos de transporte não especificados anteriormente;#N/A
+;3;31;3101;3101200;Fabricação de móveis com predominância de madeira;#N/A
+;3;31;3102;3102100;Fabricação de móveis com predominância de metal;#N/A
+;3;31;3103;3103900;Fabricação de móveis de outros materiais, exceto madeira e metal;#N/A
+;3;31;3104;3104700;Fabricação de colchões;#N/A
+;3;32;3211;3211601;Lapidação de gemas;#N/A
+;3;32;3211;3211602;Fabricação de artefatos de joalheria e ourivesaria;#N/A
+;3;32;3211;3211603;Cunhagem de moedas e medalhas;#N/A
+;3;32;3212;3212400;Fabricação de bijuterias e artefatos semelhantes;#N/A
+;3;32;3220;3220500;Fabricação de instrumentos musicais, peças e acessórios;#N/A
+;3;32;3230;3230200;Fabricação de artefatos para pesca e esporte;#N/A
+;3;32;3240;3240001;Fabricação de jogos eletrônicos;#N/A
+;3;32;3240;3240002;Fabricação de mesas de bilhar, de sinuca e acessórios não associada à locação;#N/A
+;3;32;3240;3240003;Fabricação de mesas de bilhar, de sinuca e acessórios associada à locação;#N/A
+;3;32;3240;3240099;Fabricação de outros brinquedos e jogos recreativos não especificados anteriormente;#N/A
+;3;32;3250;3250701;Fabricação de instrumentos não-eletrônicos e utensílios para uso médico, cirúrgico, odontológico e de laboratório;#N/A
+;3;32;3250;3250702;Fabricação de mobiliário para uso médico, cirúrgico, odontológico e de laboratório;#N/A
+;3;32;3250;3250703;Fabricação de aparelhos e utensílios para correção de defeitos físicos e aparelhos ortopédicos em geral sob encomenda;#N/A
+;3;32;3250;3250704;Fabricação de aparelhos e utensílios para correção de defeitos físicos e aparelhos ortopédicos em geral, exceto sob encomenda;#N/A
+;3;32;3250;3250705;Fabricação de materiais para medicina e odontologia;#N/A
+;3;32;3250;3250706;Serviços de prótese dentária;#N/A
+;3;32;3250;3250707;Fabricação de artigos ópticos;#N/A
+;3;32;3250;3250708;Fabricação de artefatos de tecido não tecido para uso odonto-médico-hospitalar;#N/A
+;3;32;3250;3250709;Serviço de laboratório óptico;#N/A
+;3;32;3291;3291400;Fabricação de escovas, pincéis e vassouras;#N/A
+;3;32;3292;3292201;Fabricação de roupas de proteção e segurança e resistentes a fogo;#N/A
+;3;32;3292;3292202;Fabricação de equipamentos e acessórios para segurança pessoal e profissional;#N/A
+;3;32;3299;3299001;Fabricação de guarda-chuvas e similares;#N/A
+;3;32;3299;3299002;Fabricação de canetas, lápis e outros artigos para escritório;#N/A
+;3;32;3299;3299003;Fabricação de letras, letreiros e placas de qualquer material, exceto luminosos;#N/A
+;3;32;3299;3299004;Fabricação de painéis e letreiros luminosos;#N/A
+;3;32;3299;3299005;Fabricação de aviamentos para costura;#N/A
+;3;32;3299;3299006;Fabricação de velas, inclusive decorativas;#N/A
+;3;32;3299;3299099;Fabricação de produtos diversos não especificados anteriormente;#N/A
+;3;33;3311;3311200;Manutenção e reparação de tanques, reservatórios metálicos e caldeiras, exceto para veículos;#N/A
+;3;33;3312;3312101;Manutenção e reparação de equipamentos transmissores de comunicação;#N/A
+;3;33;3312;3312102;Manutenção e reparação de aparelhos e instrumentos de medida, teste e controle;#N/A
+;3;33;3312;3312103;Manutenção e reparação de aparelhos eletromédicos e eletroterapêuticos e equipamentos de irradiação;#N/A
+;3;33;3312;3312104;Manutenção e reparação de equipamentos e instrumentos ópticos;#N/A
+;3;33;3313;3313901;Manutenção e reparação de geradores, transformadores e motores elétricos;#N/A
+;3;33;3313;3313902;Manutenção e reparação de baterias e acumuladores elétricos, exceto para veículos;#N/A
+;3;33;3313;3313999;Manutenção e reparação de máquinas, aparelhos e materiais elétricos não especificados anteriormente;#N/A
+;3;33;3314;3314701;Manutenção e reparação de máquinas motrizes não-elétricas;#N/A
+;3;33;3314;3314702;Manutenção e reparação de equipamentos hidráulicos e pneumáticos, exceto válvulas;#N/A
+;3;33;3314;3314703;Manutenção e reparação de válvulas industriais;#N/A
+;3;33;3314;3314704;Manutenção e reparação de compressores;#N/A
+;3;33;3314;3314705;Manutenção e reparação de equipamentos de transmissão para fins industriais;#N/A
+;3;33;3314;3314706;Manutenção e reparação de máquinas, aparelhos e equipamentos para instalações térmicas;#N/A
+;3;33;3314;3314707;Manutenção e reparação de máquinas e aparelhos de refrigeração e ventilação para uso industrial e comercial;#N/A
+;3;33;3314;3314708;Manutenção e reparação de máquinas, equipamentos e aparelhos para transporte e elevação de cargas;#N/A
+;3;33;3314;3314709;Manutenção e reparação de máquinas de escrever, calcular e de outros equipamentos não-eletrônicos para escritório;#N/A
+;3;33;3314;3314710;Manutenção e reparação de máquinas e equipamentos para uso geral não especificados anteriormente;#N/A
+;3;33;3314;3314711;Manutenção e reparação de máquinas e equipamentos para agricultura e pecuária;#N/A
+;3;33;3314;3314712;Manutenção e reparação de tratores agrícolas;#N/A
+;3;33;3314;3314713;Manutenção e reparação de máquinas-ferramenta;#N/A
+;3;33;3314;3314714;Manutenção e reparação de máquinas e equipamentos para a prospecção e extração de petróleo;#N/A
+;3;33;3314;3314715;Manutenção e reparação de máquinas e equipamentos para uso na extração mineral, exceto na extração de petróleo;#N/A
+;3;33;3314;3314716;Manutenção e reparação de tratores, exceto agrícolas;#N/A
+;3;33;3314;3314717;Manutenção e reparação de máquinas e equipamentos de terraplenagem, pavimentação e construção, exceto tratores;#N/A
+;3;33;3314;3314718;Manutenção e reparação de máquinas para a indústria metalúrgica, exceto máquinas-ferramenta;#N/A
+;3;33;3314;3314719;Manutenção e reparação de máquinas e equipamentos para as indústrias de alimentos, bebidas e fumo;#N/A
+;3;33;3314;3314720;Manutenção e reparação de máquinas e equipamentos para a indústria têxtil, do vestuário, do couro e calçados;#N/A
+;3;33;3314;3314721;Manutenção e reparação de máquinas e aparelhos para a indústria de celulose, papel e papelão e artefatos;#N/A
+;3;33;3314;3314722;Manutenção e reparação de máquinas e aparelhos para a indústria do plástico;#N/A
+;3;33;3314;3314799;Manutenção e reparação de outras máquinas e equipamentos para usos industriais não especificados anteriormente;#N/A
+;3;33;3315;3315500;Manutenção e reparação de veículos ferroviários;#N/A
+;3;33;3316;3316301;Manutenção e reparação de aeronaves, exceto a manutenção na pista;#N/A
+;3;33;3316;3316302;Manutenção de aeronaves na pista;#N/A
+;3;33;3317;3317101;Manutenção e reparação de embarcações e estruturas flutuantes;#N/A
+;3;33;3317;3317102;Manutenção e reparação de embarcações para esporte e lazer;#N/A
+;3;33;3319;3319800;Manutenção e reparação de equipamentos e produtos não especificados anteriormente;#N/A
+;3;33;3321;3321000;Instalação de máquinas e equipamentos industriais;#N/A
+;3;33;3329;3329501;Serviços de montagem de móveis de qualquer material;#N/A
+;3;33;3329;3329599;Instalação de outros equipamentos não especificados anteriormente;#N/A
+;3;35;3511;3511500;Geração de energia elétrica;#N/A
+;3;35;3511;3511501;Geração de energia elétrica;#N/A
+;3;35;3511;3511502;Atividades de coordenação e controle da operação da geração e transmissão de energia elétrica;#N/A
+;3;35;3512;3512300;Transmissão de energia elétrica;#N/A
+;3;35;3513;3513100;Comércio atacadista de energia elétrica;#N/A
+;3;35;3514;3514000;Distribuição de energia elétrica;#N/A
+;3;35;3520;3520401;"Produção de gás; processamento de gás natural";#N/A
+;3;35;3520;3520402;Distribuição de combustíveis gasosos por redes urbanas;#N/A
+;3;35;3530;3530100;Produção e distribuição de vapor, água quente e ar condicionado;#N/A
+;3;36;3600;3600601;Captação, tratamento e distribuição de água;#N/A
+;3;36;3600;3600602;Distribuição de água por caminhões;#N/A
+;3;37;3701;3701100;Gestão de redes de esgoto;#N/A
+;3;37;3702;3702900;Atividades relacionadas a esgoto, exceto a gestão de redes;#N/A
+;3;38;3811;3811400;Coleta de resíduos não-perigosos;#N/A
+;3;38;3812;3812200;Coleta de resíduos perigosos;#N/A
+;3;38;3821;3821100;Tratamento e disposição de resíduos não-perigosos;#N/A
+;3;38;3822;3822000;Tratamento e disposição de resíduos perigosos;#N/A
+;3;38;3831;3831901;Recuperação de sucatas de alumínio;#N/A
+;3;38;3831;3831999;Recuperação de materiais metálicos, exceto alumínio;#N/A
+;3;38;3832;3832700;Recuperação de materiais plásticos;#N/A
+;3;38;3839;3839401;Usinas de compostagem;#N/A
+;3;38;3839;3839499;Recuperação de materiais não especificados anteriormente;#N/A
+;3;39;3900;3900500;Descontaminação e outros serviços de gestão de resíduos;#N/A
+;4;41;4110;4110700;Incorporação de empreendimentos imobiliários;#N/A
+;4;41;4120;4120400;Construção de edifícios;#N/A
+;4;42;4211;4211101;Construção de rodovias e ferrovias;#N/A
+;4;42;4211;4211102;Pintura para sinalização em pistas rodoviárias e aeroportos;#N/A
+;4;42;4212;4212000;Construção de obras de arte especiais;#N/A
+;4;42;4213;4213800;Obras de urbanização - ruas, praças e calçadas;#N/A
+;4;42;4221;4221901;Construção de barragens e represas para geração de energia elétrica;#N/A
+;4;42;4221;4221902;Construção de estações e redes de distribuição de energia elétrica;#N/A
+;4;42;4221;4221903;Manutenção de redes de distribuição de energia elétrica;#N/A
+;4;42;4221;4221904;Construção de estações e redes de telecomunicações;#N/A
+;4;42;4221;4221905;Manutenção de estações e redes de telecomunicações;#N/A
+;4;42;4222;4222701;Construção de redes de abastecimento de água, coleta de esgoto e construções correlatas, exceto obras de irrigação;#N/A
+;4;42;4222;4222702;Obras de irrigação;#N/A
+;4;42;4223;4223500;Construção de redes de transportes por dutos, exceto para água e esgoto;#N/A
+;4;42;4291;4291000;Obras portuárias, marítimas e fluviais;#N/A
+;4;42;4292;4292801;Montagem de estruturas metálicas;#N/A
+;4;42;4292;4292802;Obras de montagem industrial;#N/A
+;4;42;4299;4299501;Construção de instalações esportivas e recreativas;#N/A
+;4;42;4299;4299599;Outras obras de engenharia civil não especificadas anteriormente;#N/A
+;4;43;4311;4311801;Demolição de edifícios e outras estruturas;#N/A
+;4;43;4311;4311802;Preparação de canteiro e limpeza de terreno;#N/A
+;4;43;4312;4312600;Perfurações e sondagens;#N/A
+;4;43;4313;4313400;Obras de terraplenagem;#N/A
+;4;43;4319;4319300;Serviços de preparação do terreno não especificados anteriormente;#N/A
+;4;43;4321;4321500;Instalação e manutenção elétrica;#N/A
+;4;43;4322;4322301;Instalações hidráulicas, sanitárias e de gás;#N/A
+;4;43;4322;4322302;Instalação e manutenção de sistemas centrais de ar condicionado, de ventilação e refrigeração;#N/A
+;4;43;4322;4322303;Instalações de sistema de prevenção contra incêndio;#N/A
+;4;43;4329;4329101;Instalação de painéis publicitários;#N/A
+;4;43;4329;4329102;Instalação de equipamentos para orientação à navegação marítima fluvial e lacustre;#N/A
+;4;43;4329;4329103;Instalação, manutenção e reparação de elevadores, escadas e esteiras rolantes;#N/A
+;4;43;4329;4329104;Montagem e instalação de sistemas e equipamentos de iluminação e sinalização em vias públicas, portos e aeroportos;#N/A
+;4;43;4329;4329105;Tratamentos térmicos, acústicos ou de vibração;#N/A
+;4;43;4329;4329199;Outras obras de instalações em construções não especificadas anteriormente;#N/A
+;4;43;4330;4330401;Impermeabilização em obras de engenharia civil;#N/A
+;4;43;4330;4330402;Instalação de portas, janelas, tetos, divisórias e armários embutidos de qualquer material;#N/A
+;4;43;4330;4330403;Obras de acabamento em gesso e estuque;#N/A
+;4;43;4330;4330404;Serviços de pintura de edifícios em geral;#N/A
+;4;43;4330;4330405;Aplicação de revestimentos e de resinas em interiores e exteriores;#N/A
+;4;43;4330;4330499;Outras obras de acabamento da construção;#N/A
+;4;43;4391;4391600;Obras de fundações;#N/A
+;4;43;4399;4399101;Administração de obras;#N/A
+;4;43;4399;4399102;Montagem e desmontagem de andaimes e outras estruturas temporárias;#N/A
+;4;43;4399;4399103;Obras de alvenaria;#N/A
+;4;43;4399;4399104;Serviços de operação e fornecimento de equipamentos para transporte e elevação de cargas e pessoas para uso em obras;#N/A
+;4;43;4399;4399105;Perfuração e construção de poços de água;#N/A
+;4;43;4399;4399199;Serviços especializados para construção não especificados anteriormente;#N/A
+;4;45;4511;4511101;Comércio a varejo de automóveis, camionetas e utilitários novos;#N/A
+;4;45;4511;4511102;Comércio a varejo de automóveis, camionetas e utilitários usados;#N/A
+;4;45;4511;4511103;Comércio por atacado de automóveis, camionetas e utilitários novos e usados;#N/A
+;4;45;4511;4511104;Comércio por atacado de caminhões novos e usados;#N/A
+;4;45;4511;4511105;Comércio por atacado de reboques e semi-reboques novos e usados;#N/A
+;4;45;4511;4511106;Comércio por atacado de ônibus e microônibus novos e usados;#N/A
+;4;45;4512;4512901;Representantes comerciais e agentes do comércio de veículos automotores;#N/A
+;4;45;4512;4512902;Comércio sob consignação de veículos automotores;#N/A
+;4;45;4520;4520001;Serviços de manutenção e reparação mecânica de veículos automotores;#N/A
+;4;45;4520;4520002;Serviços de lanternagem ou funilaria e pintura de veículos automotores;#N/A
+;4;45;4520;4520003;Serviços de manutenção e reparação elétrica de veículos automotores;#N/A
+;4;45;4520;4520004;Serviços de alinhamento e balanceamento de veículos automotores;#N/A
+;4;45;4520;4520005;Serviços de lavagem, lubrificação e polimento de veículos automotores;#N/A
+;4;45;4520;4520006;Serviços de borracharia para veículos automotores;#N/A
+;4;45;4520;4520007;Serviços de instalação, manutenção e reparação de acessórios para veículos automotores;#N/A
+;4;45;4520;4520008;Serviços de capotaria;#N/A
+;4;45;4530;4530701;Comércio por atacado de peças e acessórios novos para veículos automotores;#N/A
+;4;45;4530;4530702;Comércio por atacado de pneumáticos e câmaras-de-ar;#N/A
+;4;45;4530;4530703;Comércio a varejo de peças e acessórios novos para veículos automotores;#N/A
+;4;45;4530;4530704;Comércio a varejo de peças e acessórios usados para veículos automotores;#N/A
+;4;45;4530;4530705;Comércio a varejo de pneumáticos e câmaras-de-ar;#N/A
+;4;45;4530;4530706;Representantes comerciais e agentes do comércio de peças e acessórios novos e usados para veículos automotores;#N/A
+;4;45;4541;4541201;Comércio por atacado de motocicletas e motonetas;#N/A
+;4;45;4541;4541202;Comércio por atacado de peças e acessórios para motocicletas e motonetas;#N/A
+;4;45;4541;4541203;Comércio a varejo de motocicletas e motonetas novas;#N/A
+;4;45;4541;4541204;Comércio a varejo de motocicletas e motonetas usadas;#N/A
+;4;45;4541;4541205;Comércio a varejo de peças e acessórios para motocicletas e motonetas;#N/A
+;4;45;4541;4541206;Comércio a varejo de peças e acessórios novos para  motocicletas e motonetas;#N/A
+;4;45;4541;4541207;Comércio a varejo de peças e acessórios usados para motocicletas e motonetas;#N/A
+;4;45;4542;4542101;Representantes comerciais e agentes do comércio de motocicletas e motonetas, peças e acessórios;#N/A
+;4;45;4542;4542102;Comércio sob consignação de motocicletas e motonetas;#N/A
+;4;45;4543;4543900;Manutenção e reparação de motocicletas e motonetas;#N/A
+;4;46;4611;4611700;Representantes comerciais e agentes do comércio de matérias-primas agrícolas e animais vivos;#N/A
+;4;46;4612;4612500;Representantes comerciais e agentes do comércio de combustíveis, minerais, produtos siderúrgicos e químicos;#N/A
+;4;46;4613;4613300;Representantes comerciais e agentes do comércio de madeira, material de construção e ferragens;#N/A
+;4;46;4614;4614100;Representantes comerciais e agentes do comércio de máquinas, equipamentos, embarcações e aeronaves;#N/A
+;4;46;4615;4615000;Representantes comerciais e agentes do comércio de eletrodomésticos, móveis e artigos de uso doméstico;#N/A
+;4;46;4616;4616800;Representantes comerciais e agentes do comércio de têxteis, vestuário, calçados e artigos de viagem;#N/A
+;4;46;4617;4617600;Representantes comerciais e agentes do comércio de produtos alimentícios, bebidas e fumo;#N/A
+;4;46;4618;4618401;Representantes comerciais e agentes do comércio de medicamentos, cosméticos e produtos de perfumaria;#N/A
+;4;46;4618;4618402;Representantes comerciais e agentes do comércio de instrumentos e materiais odonto-médico-hospitalares;#N/A
+;4;46;4618;4618403;Representantes comerciais e agentes do comércio de jornais, revistas e outras publicações;#N/A
+;4;46;4618;4618499;Outros representantes comerciais e agentes do comércio especializado em produtos não especificados anteriormente;#N/A
+;4;46;4619;4619200;Representantes comerciais e agentes do comércio de mercadorias em geral não especializado;#N/A
+;4;46;4621;4621400;Comércio atacadista de café em grão;#N/A
+;4;46;4622;4622200;Comércio atacadista de soja;#N/A
+;4;46;4623;4623101;Comércio atacadista de animais vivos;#N/A
+;4;46;4623;4623102;Comércio atacadista de couros, lãs, peles e outros subprodutos não-comestíveis de origem animal;#N/A
+;4;46;4623;4623103;Comércio atacadista de algodão;#N/A
+;4;46;4623;4623104;Comércio atacadista de fumo em folha não beneficiado;#N/A
+;4;46;4623;4623105;Comércio atacadista de cacau;#N/A
+;4;46;4623;4623106;Comércio atacadista de sementes, flores, plantas e gramas;#N/A
+;4;46;4623;4623107;Comércio atacadista de sisal;#N/A
+;4;46;4623;4623108;Comércio atacadista de matérias-primas agrícolas com atividade de fracionamento e acondicionamento associada;#N/A
+;4;46;4623;4623109;Comércio atacadista de alimentos para animais;#N/A
+;4;46;4623;4623199;Comércio atacadista de matérias-primas agrícolas não especificadas anteriormente;#N/A
+;4;46;4631;4631100;Comércio atacadista de leite e laticínios;#N/A
+;4;46;4632;4632001;Comércio atacadista de cereais e leguminosas beneficiados;#N/A
+;4;46;4632;4632002;Comércio atacadista de farinhas, amidos e féculas;#N/A
+;4;46;4632;4632003;Comércio atacadista de cereais e leguminosas beneficiados, farinhas, amidos e féculas, com atividade de fracionamento e acondicionamento associada;#N/A
+;4;46;4633;4633801;Comércio atacadista de frutas, verduras, raízes, tubérculos, hortaliças e legumes frescos;#N/A
+;4;46;4633;4633802;Comércio atacadista de aves vivas e ovos;#N/A
+;4;46;4633;4633803;Comércio atacadista de coelhos e outros pequenos animais vivos para alimentação;#N/A
+;4;46;4634;4634601;Comércio atacadista de carnes bovinas e suínas e derivados;#N/A
+;4;46;4634;4634602;Comércio atacadista de aves abatidas e derivados;#N/A
+;4;46;4634;4634603;Comércio atacadista de pescados e frutos do mar;#N/A
+;4;46;4634;4634699;Comércio atacadista de carnes e derivados de outros animais;#N/A
+;4;46;4635;4635401;Comércio atacadista de água mineral;#N/A
+;4;46;4635;4635402;Comércio atacadista de cerveja, chope e refrigerante;#N/A
+;4;46;4635;4635403;Comércio atacadista de bebidas com atividade de fracionamento e acondicionamento associada;#N/A
+;4;46;4635;4635499;Comércio atacadista de bebidas não especificadas anteriormente;#N/A
+;4;46;4636;4636201;Comércio atacadista de fumo beneficiado;#N/A
+;4;46;4636;4636202;Comércio atacadista de cigarros, cigarrilhas e charutos;#N/A
+;4;46;4637;4637101;Comércio atacadista de café torrado, moído e solúvel;#N/A
+;4;46;4637;4637102;Comércio atacadista de açúcar;#N/A
+;4;46;4637;4637103;Comércio atacadista de óleos e gorduras;#N/A
+;4;46;4637;4637104;Comércio atacadista de pães, bolos, biscoitos e similares;#N/A
+;4;46;4637;4637105;Comércio atacadista de massas alimentícias;#N/A
+;4;46;4637;4637106;Comércio atacadista de sorvetes;#N/A
+;4;46;4637;4637107;Comércio atacadista de chocolates, confeitos, balas, bombons e semelhantes;#N/A
+;4;46;4637;4637199;Comércio atacadista especializado em outros produtos alimentícios não especificados anteriormente;#N/A
+;4;46;4639;4639701;Comércio atacadista de produtos alimentícios em geral;#N/A
+;4;46;4639;4639702;Comércio atacadista de produtos alimentícios em geral, com atividade de fracionamento e acondicionamento associada;#N/A
+;4;46;4641;4641901;Comércio atacadista de tecidos;#N/A
+;4;46;4641;4641902;Comércio atacadista de artigos de cama, mesa e banho;#N/A
+;4;46;4641;4641903;Comércio atacadista de artigos de armarinho;#N/A
+;4;46;4642;4642701;Comércio atacadista de artigos do vestuário e acessórios, exceto profissionais e de segurança;#N/A
+;4;46;4642;4642702;Comércio atacadista de roupas e acessórios para uso profissional e de segurança do trabalho;#N/A
+;4;46;4643;4643501;Comércio atacadista de calçados;#N/A
+;4;46;4643;4643502;Comércio atacadista de bolsas, malas e artigos de viagem;#N/A
+;4;46;4644;4644301;Comércio atacadista de medicamentos e drogas de uso humano;#N/A
+;4;46;4644;4644302;Comércio atacadista de medicamentos e drogas de uso veterinário;#N/A
+;4;46;4645;4645101;Comércio atacadista de instrumentos e materiais para uso médico, cirúrgico, hospitalar e de laboratórios;#N/A
+;4;46;4645;4645102;Comércio atacadista de próteses e artigos de ortopedia;#N/A
+;4;46;4645;4645103;Comércio atacadista de produtos odontológicos;#N/A
+;4;46;4646;4646001;Comércio atacadista de cosméticos e produtos de perfumaria;#N/A
+;4;46;4646;4646002;Comércio atacadista de produtos de higiene pessoal;#N/A
+;4;46;4647;4647801;Comércio atacadista de artigos de escritório e de papelaria;#N/A
+;4;46;4647;4647802;Comércio atacadista de livros, jornais e outras publicações;#N/A
+;4;46;4649;4649401;Comércio atacadista de equipamentos elétricos de uso pessoal e doméstico;#N/A
+;4;46;4649;4649402;Comércio atacadista de aparelhos eletrônicos de uso pessoal e doméstico;#N/A
+;4;46;4649;4649403;Comércio atacadista de bicicletas, triciclos e outros veículos recreativos;#N/A
+;4;46;4649;4649404;Comércio atacadista de móveis e artigos de colchoaria;#N/A
+;4;46;4649;4649405;"Comércio atacadista de artigos de tapeçaria; persianas e cortinas";#N/A
+;4;46;4649;4649406;Comércio atacadista de lustres, luminárias e abajures;#N/A
+;4;46;4649;4649407;Comércio atacadista de filmes, CDs, DVDs, fitas e discos;#N/A
+;4;46;4649;4649408;Comércio atacadista de produtos de higiene, limpeza e conservação domiciliar;#N/A
+;4;46;4649;4649409;Comércio atacadista de produtos de higiene, limpeza e conservação domiciliar, com atividade de fracionamento e acondicionamento associada;#N/A
+;4;46;4649;4649410;Comércio atacadista de jóias, relógios e bijuterias, inclusive pedras preciosas e semipreciosas lapidadas;#N/A
+;4;46;4649;4649499;Comércio atacadista de outros equipamentos e artigos de uso pessoal e doméstico não especificados anteriormente;#N/A
+;4;46;4651;4651601;Comércio atacadista de equipamentos de informática;#N/A
+;4;46;4651;4651602;Comércio atacadista de suprimentos para informática;#N/A
+;4;46;4652;4652400;Comércio atacadista de componentes eletrônicos e equipamentos de telefonia e comunicação;#N/A
+;4;46;4661;4661300;"Comércio atacadista de máquinas, aparelhos e equipamentos para uso agropecuário; partes e peças";#N/A
+;4;46;4662;4662100;"Comércio atacadista de máquinas, equipamentos para terraplenagem, mineração e construção; partes e peças";#N/A
+;4;46;4663;4663000;"Comércio atacadista de Máquinas e equipamentos para uso industrial; partes e peças";#N/A
+;4;46;4664;4664800;"Comércio atacadista de máquinas, aparelhos e equipamentos para uso odonto-médico-hospitalar; partes e peças";#N/A
+;4;46;4665;4665600;"Comércio atacadista de máquinas e equipamentos para uso comercial; partes e peças";#N/A
+;4;46;4669;4669901;"Comércio atacadista de bombas e compressores; partes e peças";#N/A
+;4;46;4669;4669999;"Comércio atacadista de outras máquinas e equipamentos não especificados anteriormente; partes e peças";#N/A
+;4;46;4671;4671100;Comércio atacadista de madeira e produtos derivados;#N/A
+;4;46;4672;4672900;Comércio atacadista de ferragens e ferramentas;#N/A
+;4;46;4673;4673700;Comércio atacadista de material elétrico;#N/A
+;4;46;4674;4674500;Comércio atacadista de cimento;#N/A
+;4;46;4679;4679601;Comércio atacadista de tintas, vernizes e similares;#N/A
+;4;46;4679;4679602;Comércio atacadista de mármores e granitos;#N/A
+;4;46;4679;4679603;Comércio atacadista de vidros, espelhos, vitrais e molduras;#N/A
+;4;46;4679;4679604;Comércio atacadista especializado de materiais de construção não especificados anteriormente;#N/A
+;4;46;4679;4679699;Comércio atacadista de materiais de construção em geral;#N/A
+;4;46;4681;4681801;Comércio atacadista de álcool carburante, biodiesel, gasolina e demais derivados de petróleo, exceto lubrificantes, não realizado por transportador re;#N/A
+;4;46;4681;4681802;Comércio atacadista de combustíveis realizado por transportador retalhista (T.R.R.);#N/A
+;4;46;4681;4681803;Comércio atacadista de combustíveis de origem vegetal, exceto álcool carburante;#N/A
+;4;46;4681;4681804;Comércio atacadista de combustíveis de origem mineral em bruto;#N/A
+;4;46;4681;4681805;Comércio atacadista de lubrificantes;#N/A
+;4;46;4682;4682600;Comércio atacadista de gás liqüefeito de petróleo (GLP);#N/A
+;4;46;4683;4683400;Comércio atacadista de defensivos agrícolas, adubos, fertilizantes e corretivos do solo;#N/A
+;4;46;4684;4684201;Comércio atacadista de resinas e elastômeros;#N/A
+;4;46;4684;4684202;Comércio atacadista de solventes;#N/A
+;4;46;4684;4684299;Comércio atacadista de outros produtos químicos e petroquímicos não especificados anteriormente;#N/A
+;4;46;4685;4685100;Comércio atacadista de produtos siderúrgicos e metalúrgicos, exceto para construção;#N/A
+;4;46;4686;4686901;Comércio atacadista de papel e papelão em bruto;#N/A
+;4;46;4686;4686902;Comércio atacadista de embalagens;#N/A
+;4;46;4687;4687701;Comércio atacadista de resíduos de papel e papelão;#N/A
+;4;46;4687;4687702;Comércio atacadista de resíduos e sucatas não-metálicos, exceto de papel e papelão;#N/A
+;4;46;4687;4687703;Comércio atacadista de resíduos e sucatas metálicos;#N/A
+;4;46;4689;4689301;Comércio atacadista de produtos da extração mineral, exceto combustíveis;#N/A
+;4;46;4689;4689302;Comércio atacadista de fios e fibras beneficiados;#N/A
+;4;46;4689;4689399;Comércio atacadista especializado em outros produtos intermediários não especificados anteriormente;#N/A
+;4;46;4691;4691500;Comércio atacadista de mercadorias em geral, com predominância de produtos alimentícios;#N/A
+;4;46;4692;4692300;Comércio atacadista de mercadorias em geral, com predominância de insumos agropecuários;#N/A
+;4;46;4693;4693100;Comércio atacadista de mercadorias em geral, sem predominância de alimentos ou de insumos agropecuários;#N/A
+;4;47;4711;4711301;Comércio varejista de mercadorias em geral, com predominância de produtos alimentícios - hipermercados;#N/A
+;4;47;4711;4711302;Comércio varejista de mercadorias em geral, com predominância de produtos alimentícios - supermercados;#N/A
+;4;47;4712;4712100;Comércio varejista de mercadorias em geral, com predominância de produtos alimentícios - minimercados, mercearias e armazéns;#N/A
+;4;47;4713;4713001;Lojas de departamentos ou magazines;#N/A
+;4;47;4713;4713002;Lojas de variedades, exceto lojas de departamentos ou magazines;#N/A
+;4;47;4713;4713003;Lojas duty free de aeroportos internacionais;#N/A
+;4;47;4713;4713004;Lojas de departamentos ou magazines, exceto lojas francas (Duty free);#N/A
+;4;47;4713;4713005;Lojas francas (Duty free) de aeroportos, portos e em fronteiras terrestres;#N/A
+;4;47;4721;4721101;Padaria e confeitaria com predominância de produção própria;#N/A
+;4;47;4721;4721102;Padaria e confeitaria com predominância de revenda;#N/A
+;4;47;4721;4721103;Comércio varejista de laticínios e frios;#N/A
+;4;47;4721;4721104;Comércio varejista de doces, balas, bombons e semelhantes;#N/A
+;4;47;4722;4722901;Comércio varejista de carnes - açougues;#N/A
+;4;47;4722;4722902;Peixaria;#N/A
+;4;47;4723;4723700;Comércio varejista de bebidas;#N/A
+;4;47;4724;4724500;Comércio varejista de hortifrutigranjeiros;#N/A
+;4;47;4729;4729601;Tabacaria;#N/A
+;4;47;4729;4729602;Comércio varejista de mercadorias em lojas de conveniência;#N/A
+;4;47;4729;4729699;Comércio varejista de produtos alimentícios em geral ou especializado em produtos alimentícios não especificados anteriormente;#N/A
+;4;47;4731;4731800;Comércio varejista de combustíveis para veículos automotores;#N/A
+;4;47;4732;4732600;Comércio varejista de lubrificantes;#N/A
+;4;47;4741;4741500;Comércio varejista de tintas e materiais para pintura;#N/A
+;4;47;4742;4742300;Comércio varejista de material elétrico;#N/A
+;4;47;4743;4743100;Comércio varejista de vidros;#N/A
+;4;47;4744;4744001;Comércio varejista de ferragens e ferramentas;#N/A
+;4;47;4744;4744002;Comércio varejista de madeira e artefatos;#N/A
+;4;47;4744;4744003;Comércio varejista de materiais hidráulicos;#N/A
+;4;47;4744;4744004;Comércio varejista de cal, areia, pedra britada, tijolos e telhas;#N/A
+;4;47;4744;4744005;Comércio varejista de materiais de construção não especificados anteriormente;#N/A
+;4;47;4744;4744006;Comércio varejista de pedras para revestimento;#N/A
+;4;47;4744;4744099;Comércio varejista de materiais de construção em geral;#N/A
+;4;47;4751;4751200;Comércio varejista especializado de equipamentos e suprimentos de informática;#N/A
+;4;47;4751;4751201;Comércio varejista especializado de equipamentos e suprimentos de informática;#N/A
+;4;47;4751;4751202;Recarga de cartuchos para equipamentos de informática;#N/A
+;4;47;4752;4752100;Comércio varejista especializado de equipamentos de telefonia e comunicação;#N/A
+;4;47;4753;4753900;Comércio varejista especializado de eletrodomésticos e equipamentos de áudio e vídeo;#N/A
+;4;47;4754;4754701;Comércio varejista de móveis;#N/A
+;4;47;4754;4754702;Comércio varejista de artigos de colchoaria;#N/A
+;4;47;4754;4754703;Comércio varejista de artigos de iluminação;#N/A
+;4;47;4755;4755501;Comércio varejista de tecidos;#N/A
+;4;47;4755;4755502;Comercio varejista de artigos de armarinho;#N/A
+;4;47;4755;4755503;Comercio varejista de artigos de cama, mesa e banho;#N/A
+;4;47;4756;4756300;Comércio varejista especializado de instrumentos musicais e acessórios;#N/A
+;4;47;4757;4757100;Comércio varejista especializado de peças e acessórios para aparelhos eletroeletrônicos para uso doméstico, exceto informática e comunicação;#N/A
+;4;47;4759;4759801;Comércio varejista de artigos de tapeçaria, cortinas e persianas;#N/A
+;4;47;4759;4759899;Comércio varejista de outros artigos de uso pessoal e doméstico não especificados anteriormente;#N/A
+;4;47;4761;4761001;Comércio varejista de livros;#N/A
+;4;47;4761;4761002;Comércio varejista de jornais e revistas;#N/A
+;4;47;4761;4761003;Comércio varejista de artigos de papelaria;#N/A
+;4;47;4762;4762800;Comércio varejista de discos, CDs, DVDs e fitas;#N/A
+;4;47;4763;4763601;Comércio varejista de brinquedos e artigos recreativos;#N/A
+;4;47;4763;4763602;Comércio varejista de artigos esportivos;#N/A
+;4;47;4763;4763603;"Comércio varejista de bicicletas e triciclos; peças e acessórios";#N/A
+;4;47;4763;4763604;Comércio varejista de artigos de caça, pesca e camping;#N/A
+;4;47;4763;4763605;"Comércio varejista de embarcações e outros veículos recreativos; peças e acessórios";#N/A
+;4;47;4771;4771701;Comércio varejista de produtos farmacêuticos, sem manipulação de fórmulas;#N/A
+;4;47;4771;4771702;Comércio varejista de produtos farmacêuticos, com manipulação de fórmulas;#N/A
+;4;47;4771;4771703;Comércio varejista de produtos farmacêuticos homeopáticos;#N/A
+;4;47;4771;4771704;Comércio varejista de medicamentos veterinários;#N/A
+;4;47;4772;4772500;Comércio varejista de cosméticos, produtos de perfumaria e de higiene pessoal;#N/A
+;4;47;4773;4773300;Comércio varejista de artigos médicos e ortopédicos;#N/A
+;4;47;4774;4774100;Comércio varejista de artigos de óptica;#N/A
+;4;47;4781;4781400;Comércio varejista de artigos do vestuário e acessórios;#N/A
+;4;47;4782;4782201;Comércio varejista de calçados;#N/A
+;4;47;4782;4782202;Comércio varejista de artigos de viagem;#N/A
+;4;47;4783;4783101;Comércio varejista de artigos de joalheria;#N/A
+;4;47;4783;4783102;Comércio varejista de artigos de relojoaria;#N/A
+;4;47;4784;4784900;Comércio varejista de gás liqüefeito de petróleo (GLP);#N/A
+;4;47;4785;4785701;Comércio varejista de antigüidades;#N/A
+;4;47;4785;4785799;Comércio varejista de outros artigos usados;#N/A
+;4;47;4789;4789001;Comércio varejista de suvenires, bijuterias e artesanatos;#N/A
+;4;47;4789;4789002;Comércio varejista de plantas e flores naturais;#N/A
+;4;47;4789;4789003;Comércio varejista de objetos de arte;#N/A
+;4;47;4789;4789004;Comércio varejista de animais vivos e de artigos e alimentos para animais de estimação;#N/A
+;4;47;4789;4789005;Comércio varejista de produtos saneantes domissanitários;#N/A
+;4;47;4789;4789006;Comércio varejista de fogos de artifício e artigos pirotécnicos;#N/A
+;4;47;4789;4789007;Comércio varejista de equipamentos para escritório;#N/A
+;4;47;4789;4789008;Comércio varejista de artigos fotográficos e para filmagem;#N/A
+;4;47;4789;4789009;Comércio varejista de armas e munições;#N/A
+;4;47;4789;4789099;Comércio varejista de outros produtos não especificados anteriormente;#N/A
+;4;49;4911;4911600;Transporte ferroviário de carga;#N/A
+;4;49;4912;4912401;Transporte ferroviário de passageiros intermunicipal e interestadual;#N/A
+;4;49;4912;4912402;Transporte ferroviário de passageiros municipal e em região metropolitana;#N/A
+;4;49;4912;4912403;Transporte metroviário;#N/A
+;4;49;4921;4921301;Transporte rodoviário coletivo de passageiros, com itinerário fixo, municipal;#N/A
+;4;49;4921;4921302;Transporte rodoviário coletivo de passageiros, com itinerário fixo, intermunicipal em região metropolitana;#N/A
+;4;49;4922;4922101;Transporte rodoviário coletivo de passageiros, com itinerário fixo, intermunicipal, exceto em região metropolitana;#N/A
+;4;49;4922;4922102;Transporte rodoviário coletivo de passageiros, com itinerário fixo, interestadual;#N/A
+;4;49;4922;4922103;Transporte rodoviário coletivo de passageiros, com itinerário fixo, internacional;#N/A
+;4;49;4923;4923001;Serviço de táxi;#N/A
+;4;49;4923;4923002;Serviço de transporte de passageiros - locação de automóveis com motorista;#N/A
+;4;49;4924;4924800;Transporte escolar;#N/A
+;4;49;4929;4929901;Transporte rodoviário coletivo de passageiros, sob regime de fretamento, municipal;#N/A
+;4;49;4929;4929902;Transporte rodoviário coletivo de passageiros, sob regime de fretamento, intermunicipal, interestadual e internacional;#N/A
+;4;49;4929;4929903;Organização de excursões em veículos rodoviários próprios, municipal;#N/A
+;4;49;4929;4929904;Organização de excursões em veículos rodoviários próprios, intermunicipal, interestadual e internacional;#N/A
+;4;49;4929;4929999;Outros transportes rodoviários de passageiros não especificados anteriormente;#N/A
+;4;49;4930;4930201;Transporte rodoviário de carga, exceto produtos perigosos e mudanças, municipal.;#N/A
+;4;49;4930;4930202;Transporte rodoviário de carga, exceto produtos perigosos e mudanças, intermunicipal, interestadual e internacional;#N/A
+;4;49;4930;4930203;Transporte rodoviário de produtos perigosos;#N/A
+;4;49;4930;4930204;Transporte rodoviário de mudanças;#N/A
+;4;49;4940;4940000;Transporte dutoviário;#N/A
+;4;49;4950;4950700;Trens turísticos, teleféricos e similares;#N/A
+;5;50;5011;5011401;Transporte marítimo de cabotagem - Carga;#N/A
+;5;50;5011;5011402;Transporte marítimo de cabotagem - passageiros;#N/A
+;5;50;5012;5012201;Transporte marítimo de longo curso - Carga;#N/A
+;5;50;5012;5012202;Transporte marítimo de longo curso - Passageiros;#N/A
+;5;50;5021;5021101;Transporte por navegação interior de carga, municipal, exceto travessia;#N/A
+;5;50;5021;5021102;Transporte por navegação interior de carga, intermunicipal, interestadual e internacional, exceto travessia;#N/A
+;5;50;5022;5022001;Transporte por navegação interior de passageiros em linhas regulares, municipal, exceto travessia;#N/A
+;5;50;5022;5022002;Transporte por navegação interior de passageiros em linhas regulares, intermunicipal, interestadual e internacional, exceto travessia;#N/A
+;5;50;5030;5030101;Navegação de apoio marítimo;#N/A
+;5;50;5030;5030102;Navegação de apoio portuário;#N/A
+;5;50;5030;5030103;Serviço de rebocadores e empurradores;#N/A
+;5;50;5091;5091201;Transporte por navegação de travessia, municipal;#N/A
+;5;50;5091;5091202;Transporte por navegação de travessia intermunicipal, interestadual e internacional;#N/A
+;5;50;5099;5099801;Transporte aquaviário para passeios turísticos;#N/A
+;5;50;5099;5099899;Outros transportes aquaviários não especificados anteriormente;#N/A
+;5;51;5111;5111100;Transporte aéreo de passageiros regular;#N/A
+;5;51;5112;5112901;Serviço de táxi aéreo e locação de aeronaves com tripulação;#N/A
+;5;51;5112;5112999;Outros serviços de transporte aéreo de passageiros não-regular;#N/A
+;5;51;5120;5120000;Transporte aéreo de carga;#N/A
+;5;51;5130;5130700;Transporte espacial;#N/A
+;5;52;5211;5211701;Armazéns gerais - emissão de warrant;#N/A
+;5;52;5211;5211702;Guarda-móveis;#N/A
+;5;52;5211;5211799;Depósitos de mercadorias para terceiros, exceto armazéns gerais e guarda-móveis;#N/A
+;5;52;5212;5212500;Carga e descarga;#N/A
+;5;52;5221;5221400;Concessionárias de rodovias, pontes, túneis e serviços relacionados;#N/A
+;5;52;5222;5222200;Terminais rodoviários e ferroviários;#N/A
+;5;52;5223;5223100;Estacionamento de veículos;#N/A
+;5;52;5229;5229001;Serviços de apoio ao transporte por táxi, inclusive centrais de chamada;#N/A
+;5;52;5229;5229002;Serviços de reboque de veículos;#N/A
+;5;52;5229;5229099;Outras atividades auxiliares dos transportes terrestres não especificadas anteriormente;#N/A
+;5;52;5231;5231101;Administração da infra-estrutura portuária;#N/A
+;5;52;5231;5231102;Atividades do Operador Portuário;#N/A
+;5;52;5231;5231103;Gestão de terminais aquaviários;#N/A
+;5;52;5232;5232000;Atividades de agenciamento marítimo;#N/A
+;5;52;5239;5239700;Atividades auxiliares dos transportes aquaviários não especificadas anteriormente;#N/A
+;5;52;5239;5239701;Serviços de praticagem;#N/A
+;5;52;5239;5239799;Atividades auxiliares dos transportes aquaviários não especificadas anteriormente;#N/A
+;5;52;5240;5240101;Operação dos aeroportos e campos de aterrissagem;#N/A
+;5;52;5240;5240199;Atividades auxiliares dos transportes aéreos, exceto operação dos aeroportos e campos de aterrissagem;#N/A
+;5;52;5250;5250801;Comissaria de despachos;#N/A
+;5;52;5250;5250802;Atividades de despachantes aduaneiros;#N/A
+;5;52;5250;5250803;Agenciamento de cargas, exceto para o transporte marítimo;#N/A
+;5;52;5250;5250804;Organização logística do transporte de carga;#N/A
+;5;52;5250;5250805;Operador de transporte multimodal - OTM;#N/A
+;5;53;5310;5310501;Atividades do Correio Nacional;#N/A
+;5;53;5310;5310502;Atividades de franqueadas do Correio Nacional;#N/A
+;5;53;5320;5320201;Serviços de malote não realizados pelo Correio Nacional;#N/A
+;5;53;5320;5320202;Serviços de entrega rápida;#N/A
+;5;55;5510;5510801;Hotéis;#N/A
+;5;55;5510;5510802;Apart-hotéis;#N/A
+;5;55;5510;5510803;Motéis;#N/A
+;5;55;5590;5590601;Albergues, exceto assistenciais;#N/A
+;5;55;5590;5590602;Campings;#N/A
+;5;55;5590;5590603;Pensões (alojamento);#N/A
+;5;55;5590;5590699;Outros alojamentos não especificados anteriormente;#N/A
+;5;56;5611;5611201;Restaurantes e similares;#N/A
+;5;56;5611;5611202;Bares e outros estabelecimentos especializados em servir bebidas;#N/A
+;5;56;5611;5611203;Lanchonetes, casas de chá, de sucos e similares;#N/A
+;5;56;5611;5611204;Bares e outros estabelecimentos especializados em servir bebidas, sem entretenimento;#N/A
+;5;56;5611;5611205;Bares e outros estabelecimentos especializados em servir bebidas, com entretenimento;#N/A
+;5;56;5612;5612100;Serviços ambulantes de alimentação;#N/A
+;5;56;5620;5620101;Fornecimento de alimentos preparados preponderantemente para empresas;#N/A
+;5;56;5620;5620102;Serviços de alimentação para eventos e recepções - bufê;#N/A
+;5;56;5620;5620103;Cantinas - serviços de alimentação privativos;#N/A
+;5;56;5620;5620104;Fornecimento de alimentos preparados preponderantemente para consumo domiciliar;#N/A
+;5;58;5811;5811500;Edição de livros;#N/A
+;5;58;5812;5812300;Edição de jornais;#N/A
+;5;58;5812;5812301;Edição de jornais diários;#N/A
+;5;58;5812;5812302;Edição de jornais não diários;#N/A
+;5;58;5813;5813100;Edição de revistas;#N/A
+;5;58;5819;5819100;Edição de cadastros, listas e de outros produtos gráficos;#N/A
+;5;58;5821;5821200;Edição integrada à impressão de livros;#N/A
+;5;58;5822;5822100;Edição integrada à impressão de jornais;#N/A
+;5;58;5822;5822101;Edição integrada à impressão de jornais diários;#N/A
+;5;58;5822;5822102;Edição integrada à impressão de jornais não diários;#N/A
+;5;58;5823;5823900;Edição integrada à impressão de revistas;#N/A
+;5;58;5829;5829800;Edição integrada à impressão de cadastros, listas e de outros produtos gráficos;#N/A
+;5;59;5911;5911101;Estúdios cinematográficos;#N/A
+;5;59;5911;5911102;Produção de filmes para publicidade;#N/A
+;5;59;5911;5911199;Atividades de produção cinematográfica, de vídeos e de programas de televisão não especificadas anteriormente;#N/A
+;5;59;5912;5912001;Serviços de dublagem;#N/A
+;5;59;5912;5912002;Serviços de mixagem sonora em produção audiovisual;#N/A
+;5;59;5912;5912099;Atividades de pós-produção cinematográfica, de vídeos e de programas de televisão não especificadas anteriormente;#N/A
+;5;59;5913;5913800;Distribuição cinematográfica, de vídeo e de programas de televisão;#N/A
+;5;59;5914;5914600;Atividades de exibição cinematográfica;#N/A
+;5;59;5920;5920100;Atividades de gravação de som e de edição de música;#N/A
+;6;60;6010;6010100;Atividades de rádio;#N/A
+;6;60;6021;6021700;Atividades de televisão aberta;#N/A
+;6;60;6022;6022501;Programadoras;#N/A
+;6;60;6022;6022502;Atividades relacionadas à televisão por assinatura, exceto programadoras;#N/A
+;6;61;6110;6110801;Serviços de telefonia fixa comutada - STFC;#N/A
+;6;61;6110;6110802;Serviços de redes de transportes de telecomunicações - SRTT;#N/A
+;6;61;6110;6110803;Serviços de comunicação multimídia - SCM;#N/A
+;6;61;6110;6110899;Serviços de telecomunicações por fio não especificados anteriormente;#N/A
+;6;61;6120;6120501;Telefonia móvel celular;#N/A
+;6;61;6120;6120502;Serviço móvel especializado - SME;#N/A
+;6;61;6120;6120599;Serviços de telecomunicações sem fio não especificados anteriormente;#N/A
+;6;61;6130;6130200;Telecomunicações por satélite;#N/A
+;6;61;6141;6141800;Operadoras de televisão por assinatura por cabo;#N/A
+;6;61;6142;6142600;Operadoras de televisão por assinatura por microondas;#N/A
+;6;61;6143;6143400;Operadoras de televisão por assinatura por satélite;#N/A
+;6;61;6190;6190601;Provedores de acesso às redes de comunicações;#N/A
+;6;61;6190;6190602;Provedores de voz sobre protocolo internet - VOIP;#N/A
+;6;61;6190;6190699;Outras atividades de telecomunicações não especificadas anteriormente;#N/A
+;6;62;6201;6201500;Desenvolvimento de programas de computador sob encomenda;#N/A
+;6;62;6201;6201501;Desenvolvimento de programas de computador sob encomenda;#N/A
+;6;62;6201;6201502;Web design;#N/A
+;6;62;6202;6202300;Desenvolvimento e licenciamento de programas de computador customizáveis;#N/A
+;6;62;6203;6203100;Desenvolvimento e licenciamento de programas de computador não-customizáveis;#N/A
+;6;62;6204;6204000;Consultoria em tecnologia da informação;#N/A
+;6;62;6209;6209100;Suporte técnico, manutenção e outros serviços em tecnologia da informação;#N/A
+;6;63;6311;6311900;Tratamento de dados, provedores de serviços de aplicação e serviços de hospedagem na internet;#N/A
+;6;63;6319;6319400;Portais, provedores de conteúdo e outros serviços de informação na internet;#N/A
+;6;63;6391;6391700;Agências de notícias;#N/A
+;6;63;6399;6399200;Outras atividades de prestação de serviços de informação não especificadas anteriormente;#N/A
+;6;64;6410;6410700;Banco Central;#N/A
+;6;64;6421;6421200;Bancos comerciais;#N/A
+;6;64;6422;6422100;Bancos múltiplos, com carteira comercial;#N/A
+;6;64;6423;6423900;Caixas econômicas;#N/A
+;6;64;6424;6424701;Bancos cooperativos;#N/A
+;6;64;6424;6424702;Cooperativas centrais de crédito;#N/A
+;6;64;6424;6424703;Cooperativas de crédito mútuo;#N/A
+;6;64;6424;6424704;Cooperativas de crédito rural;#N/A
+;6;64;6431;6431000;Bancos múltiplos, sem carteira comercial;#N/A
+;6;64;6432;6432800;Bancos de investimento;#N/A
+;6;64;6433;6433600;Bancos de desenvolvimento;#N/A
+;6;64;6434;6434400;Agências de fomento;#N/A
+;6;64;6435;6435201;Sociedades de crédito imobiliário;#N/A
+;6;64;6435;6435202;Associações de poupança e empréstimo;#N/A
+;6;64;6435;6435203;Companhias hipotecárias;#N/A
+;6;64;6436;6436100;Sociedades de crédito, financiamento e investimento - financeiras;#N/A
+;6;64;6437;6437900;Sociedades de crédito ao microempreendedor;#N/A
+;6;64;6438;6438701;Bancos de câmbio;#N/A
+;6;64;6438;6438799;Outras instituições de intermediação não-monetária não especificadas anteriormente;#N/A
+;6;64;6440;6440900;Arrendamento mercantil;#N/A
+;6;64;6450;6450600;Sociedades de capitalização;#N/A
+;6;64;6461;6461100;Holdings de instituições financeiras;#N/A
+;6;64;6462;6462000;Holdings de instituições não-financeiras;#N/A
+;6;64;6463;6463800;Outras sociedades de participação, exceto holdings;#N/A
+;6;64;6470;6470101;Fundos de investimento, exceto previdenciários e imobiliários;#N/A
+;6;64;6470;6470102;Fundos de investimento previdenciários;#N/A
+;6;64;6470;6470103;Fundos de investimento imobiliários;#N/A
+;6;64;6491;6491300;Sociedades de fomento mercantil - factoring;#N/A
+;6;64;6492;6492100;Securitização de créditos;#N/A
+;6;64;6493;6493000;Administração de consórcios para aquisição de bens e direitos;#N/A
+;6;64;6499;6499901;Clubes de investimento;#N/A
+;6;64;6499;6499902;Sociedades de investimento;#N/A
+;6;64;6499;6499903;Fundo garantidor de crédito;#N/A
+;6;64;6499;6499904;Caixas de financiamento de corporações;#N/A
+;6;64;6499;6499905;Concessão de crédito pelas OSCIP;#N/A
+;6;64;6499;6499999;Outras atividades de serviços financeiros não especificadas anteriormente;#N/A
+;6;65;6511;6511101;Sociedade seguradora de seguros vida;#N/A
+;6;65;6511;6511102;Planos de auxílio-funeral;#N/A
+;6;65;6512;6512000;Sociedade seguradora de seguros não vida;#N/A
+;6;65;6520;6520100;Sociedade seguradora de seguros saúde;#N/A
+;6;65;6530;6530800;Resseguros;#N/A
+;6;65;6541;6541300;Previdência complementar fechada;#N/A
+;6;65;6542;6542100;Previdência complementar aberta;#N/A
+;6;65;6550;6550200;Planos de saúde;#N/A
+;6;66;6611;6611801;Bolsa de valores;#N/A
+;6;66;6611;6611802;Bolsa de mercadorias;#N/A
+;6;66;6611;6611803;Bolsa de mercadorias e futuros;#N/A
+;6;66;6611;6611804;Administração de mercados de balcão organizados;#N/A
+;6;66;6612;6612601;Corretoras de títulos e valores mobiliários;#N/A
+;6;66;6612;6612602;Distribuidoras de títulos e valores mobiliários;#N/A
+;6;66;6612;6612603;Corretoras de câmbio;#N/A
+;6;66;6612;6612604;Corretoras de contratos de mercadorias;#N/A
+;6;66;6612;6612605;Agentes de investimentos em aplicações financeiras;#N/A
+;6;66;6613;6613400;Administração de cartões de crédito;#N/A
+;6;66;6619;6619301;Serviços de liquidação e custódia;#N/A
+;6;66;6619;6619302;Correspondentes de instituições financeiras;#N/A
+;6;66;6619;6619303;Representações de bancos estrangeiros;#N/A
+;6;66;6619;6619304;Caixas eletrônicos;#N/A
+;6;66;6619;6619305;Operadoras de cartões de débito;#N/A
+;6;66;6619;6619399;Outras atividades auxiliares dos serviços financeiros não especificadas anteriormente;#N/A
+;6;66;6621;6621501;Peritos e avaliadores de seguros;#N/A
+;6;66;6621;6621502;Auditoria e consultoria atuarial;#N/A
+;6;66;6622;6622300;Corretores e agentes de seguros, de planos de previdência complementar e de saúde;#N/A
+;6;66;6629;6629100;Atividades auxiliares dos seguros, da previdência complementar e dos planos de saúde não especificadas anteriormente;#N/A
+;6;66;6630;6630400;Atividades de administração de fundos por contrato ou comissão;#N/A
+;6;68;6810;6810201;Compra e venda de imóveis próprios;#N/A
+;6;68;6810;6810202;Aluguel de imóveis próprios;#N/A
+;6;68;6810;6810203;Loteamento de imóveis próprios;#N/A
+;6;68;6821;6821801;Corretagem na compra e venda e avaliação de imóveis;#N/A
+;6;68;6821;6821802;Corretagem no aluguel de imóveis;#N/A
+;6;68;6822;6822600;Gestão e administração da propriedade imobiliária;#N/A
+;6;69;6911;6911701;Serviços advocatícios;#N/A
+;6;69;6911;6911702;Atividades auxiliares da justiça;#N/A
+;6;69;6911;6911703;Agente de propriedade industrial;#N/A
+;6;69;6912;6912500;Cartórios;#N/A
+;6;69;6920;6920601;Atividades de contabilidade;#N/A
+;6;69;6920;6920602;Atividades de consultoria e auditoria contábil e tributária;#N/A
+;7;70;7020;7020400;Atividades de consultoria em gestão empresarial, exceto consultoria técnica específica;#N/A
+;7;71;7111;7111100;Serviços de arquitetura;#N/A
+;7;71;7112;7112000;Serviços de engenharia;#N/A
+;7;71;7119;7119701;Serviços de cartografia, topografia e geodésia;#N/A
+;7;71;7119;7119702;Atividades de estudos geológicos;#N/A
+;7;71;7119;7119703;Serviços de desenho técnico relacionados à arquitetura e engenharia;#N/A
+;7;71;7119;7119704;Serviços de perícia técnica relacionados à segurança do trabalho;#N/A
+;7;71;7119;7119799;Atividades técnicas relacionadas à engenharia e arquitetura não especificadas anteriormente;#N/A
+;7;71;7120;7120100;Testes e análises técnicas;#N/A
+;7;72;7210;7210000;Pesquisa e desenvolvimento experimental em ciências físicas e naturais;#N/A
+;7;72;7220;7220700;Pesquisa e desenvolvimento experimental em ciências sociais e humanas;#N/A
+;7;73;7311;7311400;Agências de publicidade;#N/A
+;7;73;7312;7312200;Agenciamento de espaços para publicidade, exceto em veículos de comunicação;#N/A
+;7;73;7319;7319001;Criação de estandes para feiras e exposições;#N/A
+;7;73;7319;7319002;Promoção de vendas;#N/A
+;7;73;7319;7319003;Marketing direto;#N/A
+;7;73;7319;7319004;Consultoria em publicidade;#N/A
+;7;73;7319;7319099;Outras atividades de publicidade não especificadas anteriormente;#N/A
+;7;73;7320;7320300;Pesquisas de mercado e de opinião pública;#N/A
+;7;74;7410;7410201;Design;#N/A
+;7;74;7410;7410202;Design de interiores;#N/A
+;7;74;7410;7410203;Design de produto;#N/A
+;7;74;7410;7410299;atividades de design não especificadas anteriormente;#N/A
+;7;74;7420;7420001;Atividades de produção de fotografias, exceto aérea e submarina;#N/A
+;7;74;7420;7420002;Atividades de produção de fotografias aéreas e submarinas;#N/A
+;7;74;7420;7420003;Laboratórios fotográficos;#N/A
+;7;74;7420;7420004;Filmagem de festas e eventos;#N/A
+;7;74;7420;7420005;Serviços de microfilmagem;#N/A
+;7;74;7490;7490101;Serviços de tradução, interpretação e similares;#N/A
+;7;74;7490;7490102;Escafandria e mergulho;#N/A
+;7;74;7490;7490103;Serviços de agronomia e de consultoria às atividades agrícolas e pecuárias;#N/A
+;7;74;7490;7490104;Atividades de intermediação e agenciamento de serviços e negócios em geral, exceto imobiliários;#N/A
+;7;74;7490;7490105;Agenciamento de profissionais para atividades esportivas, culturais e artísticas;#N/A
+;7;74;7490;7490199;Outras atividades profissionais, científicas e técnicas não especificadas anteriormente;#N/A
+;7;75;7500;7500100;Atividades veterinárias;#N/A
+;7;77;7711;7711000;Locação de automóveis sem condutor;#N/A
+;7;77;7719;7719501;Locação de embarcações sem tripulação, exceto para fins recreativos;#N/A
+;7;77;7719;7719502;Locação de aeronaves sem tripulação;#N/A
+;7;77;7719;7719599;Locação de outros meios de transporte não especificados anteriormente, sem condutor;#N/A
+;7;77;7721;7721700;Aluguel de equipamentos recreativos e esportivos;#N/A
+;7;77;7722;7722500;Aluguel de fitas de vídeo, DVDs e similares;#N/A
+;7;77;7723;7723300;Aluguel de objetos do vestuário, jóias e acessórios;#N/A
+;7;77;7729;7729201;Aluguel de aparelhos de jogos eletrônicos;#N/A
+;7;77;7729;7729202;"Aluguel de móveis, utensílios e aparelhos de uso doméstico e pessoal; instrumentos musicais";#N/A
+;7;77;7729;7729203;Aluguel de material médico;#N/A
+;7;77;7729;7729299;Aluguel de outros objetos pessoais e domésticos não especificados anteriormente;#N/A
+;7;77;7731;7731400;Aluguel de máquinas e equipamentos agrícolas sem operador;#N/A
+;7;77;7732;7732201;Aluguel de máquinas e equipamentos para construção sem operador, exceto andaimes;#N/A
+;7;77;7732;7732202;Aluguel de andaimes;#N/A
+;7;77;7733;7733100;Aluguel de máquinas e equipamentos para escritórios;#N/A
+;7;77;7739;7739001;Aluguel de máquinas e equipamentos para extração de minérios e petróleo, sem operador;#N/A
+;7;77;7739;7739002;Aluguel de equipamentos científicos, médicos e hospitalares, sem operador;#N/A
+;7;77;7739;7739003;Aluguel de palcos, coberturas e outras estruturas de uso temporário, exceto andaimes;#N/A
+;7;77;7739;7739099;Aluguel de outras máquinas e equipamentos comerciais e industriais não especificados anteriormente, sem operador;#N/A
+;7;77;7740;7740300;Gestão de ativos intangíveis não-financeiros;#N/A
+;7;78;7810;7810800;Seleção e agenciamento de mão-de-obra;#N/A
+;7;78;7820;7820500;Locação de mão-de-obra temporária;#N/A
+;7;78;7830;7830200;Fornecimento e gestão de recursos humanos para terceiros;#N/A
+;7;79;7911;7911200;Agências de viagens;#N/A
+;7;79;7912;7912100;Operadores turísticos;#N/A
+;7;79;7990;7990200;Serviços de reservas e outros serviços de turismo não especificados anteriormente;#N/A
+;8;80;8011;8011101;Atividades de vigilância e segurança privada;#N/A
+;8;80;8011;8011102;Serviços de adestramento de cães de guarda;#N/A
+;8;80;8012;8012900;Atividades de transporte de valores;#N/A
+;8;80;8020;8020000;Atividades de monitoramento de sistemas de segurança;#N/A
+;8;80;8020;8020001;Atividades de monitoramento de sistemas de segurança eletrônico;#N/A
+;8;80;8020;8020002;Outras atividades de serviços de segurança;#N/A
+;8;80;8030;8030700;Atividades de investigação particular;#N/A
+;8;81;8111;8111700;Serviços combinados para apoio a edifícios, exceto condomínios prediais;#N/A
+;8;81;8112;8112500;Condomínios prediais;#N/A
+;8;81;8121;8121400;Limpeza em prédios e em domicílios;#N/A
+;8;81;8122;8122200;Imunização e controle de pragas urbanas;#N/A
+;8;81;8129;8129000;Atividades de limpeza não especificadas anteriormente;#N/A
+;8;81;8130;8130300;Atividades paisagísticas;#N/A
+;8;82;8211;8211300;Serviços combinados de escritório e apoio administrativo;#N/A
+;8;82;8219;8219901;Fotocópias;#N/A
+;8;82;8219;8219999;Preparação de documentos e serviços especializados de apoio administrativo não especificados anteriormente;#N/A
+;8;82;8220;8220200;Atividades de teleatendimento;#N/A
+;8;82;8230;8230001;Serviços de organização de feiras, congressos, exposições e festas;#N/A
+;8;82;8230;8230002;Casas de festas e eventos;#N/A
+;8;82;8291;8291100;Atividades de cobranças e informações cadastrais;#N/A
+;8;82;8292;8292000;Envasamento e empacotamento sob contrato;#N/A
+;8;82;8299;8299701;Medição de consumo de energia elétrica, gás e água;#N/A
+;8;82;8299;8299702;Emissão de vales-alimentação, vales-transporte e similares;#N/A
+;8;82;8299;8299703;Serviços de gravação de carimbos, exceto confecção;#N/A
+;8;82;8299;8299704;Leiloeiros independentes;#N/A
+;8;82;8299;8299705;Serviços de levantamento de fundos sob contrato;#N/A
+;8;82;8299;8299706;Casas lotéricas;#N/A
+;8;82;8299;8299707;Salas de acesso à internet;#N/A
+;8;82;8299;8299799;Outras atividades de serviços prestados principalmente às empresas não especificadas anteriormente;#N/A
+;8;84;8411;8411600;Administração pública em geral;#N/A
+;8;84;8412;8412400;Regulação das atividades de saúde, educação, serviços culturais e outros serviços sociais;#N/A
+;8;84;8413;8413200;Regulação das atividades econômicas;#N/A
+;8;84;8421;8421300;Relações exteriores;#N/A
+;8;84;8422;8422100;Defesa;#N/A
+;8;84;8423;8423000;Justiça;#N/A
+;8;84;8424;8424800;Segurança e ordem pública;#N/A
+;8;84;8425;8425600;Defesa Civil;#N/A
+;8;84;8430;8430200;Seguridade social obrigatória;#N/A
+;8;85;8511;8511200;Educação infantil - creche;#N/A
+;8;85;8512;8512100;Educação infantil - pré-escola;#N/A
+;8;85;8513;8513900;Ensino fundamental;#N/A
+;8;85;8520;8520100;Ensino médio;#N/A
+;8;85;8531;8531700;Educação superior - graduação;#N/A
+;8;85;8532;8532500;Educação superior - graduação e pós-graduação;#N/A
+;8;85;8533;8533300;Educação superior - pós-graduação e extensão;#N/A
+;8;85;8541;8541400;Educação profissional de nível técnico;#N/A
+;8;85;8542;8542200;Educação profissional de nível tecnológico;#N/A
+;8;85;8550;8550301;Administração de caixas escolares;#N/A
+;8;85;8550;8550302;Atividades de apoio à educação, exceto caixas escolares;#N/A
+;8;85;8591;8591100;Ensino de esportes;#N/A
+;8;85;8592;8592901;Ensino de dança;#N/A
+;8;85;8592;8592902;Ensino de artes cênicas, exceto dança;#N/A
+;8;85;8592;8592903;Ensino de música;#N/A
+;8;85;8592;8592999;Ensino de arte e cultura não especificado anteriormente;#N/A
+;8;85;8593;8593700;Ensino de idiomas;#N/A
+;8;85;8599;8599601;Formação de condutores;#N/A
+;8;85;8599;8599602;Cursos de pilotagem;#N/A
+;8;85;8599;8599603;Treinamento em informática;#N/A
+;8;85;8599;8599604;Treinamento em desenvolvimento profissional e gerencial;#N/A
+;8;85;8599;8599605;Cursos preparatórios para concursos;#N/A
+;8;85;8599;8599699;Outras atividades de ensino não especificadas anteriormente;#N/A
+;8;86;8610;8610101;Atividades de atendimento hospitalar, exceto pronto-socorro e unidades para atendimento a urgências;#N/A
+;8;86;8610;8610102;Atividades de atendimento em pronto-socorro e unidades hospitalares para atendimento a urgências;#N/A
+;8;86;8621;8621601;UTI móvel;#N/A
+;8;86;8621;8621602;Serviços móveis de atendimento a urgências, exceto por UTI móvel;#N/A
+;8;86;8622;8622400;Serviços de remoção de pacientes, exceto os serviços móveis de atendimento a urgências;#N/A
+;8;86;8630;8630501;Atividade médica ambulatorial com recursos para realização de procedimentos cirúrgicos;#N/A
+;8;86;8630;8630502;Atividade médica ambulatorial com recursos para realização de exames complementares;#N/A
+;8;86;8630;8630503;Atividade médica ambulatorial restrita a consultas;#N/A
+;8;86;8630;8630504;Atividade odontológica;#N/A
+;8;86;8630;8630505;Atividade odontológica sem recursos para realização de procedimentos cirúrgicos;#N/A
+;8;86;8630;8630506;Serviços de vacinação e imunização humana;#N/A
+;8;86;8630;8630507;Atividades de reprodução humana assistida;#N/A
+;8;86;8630;8630599;Atividades de atenção ambulatorial não especificadas anteriormente;#N/A
+;8;86;8640;8640201;Laboratórios de anatomia patológica e citológica;#N/A
+;8;86;8640;8640202;Laboratórios clínicos;#N/A
+;8;86;8640;8640203;Serviços de diálise e nefrologia;#N/A
+;8;86;8640;8640204;Serviços de tomografia;#N/A
+;8;86;8640;8640205;Serviços de diagnóstico por imagem com uso de radiação ionizante, exceto tomografia;#N/A
+;8;86;8640;8640206;Serviços de ressonância magnética;#N/A
+;8;86;8640;8640207;Serviços de diagnóstico por imagem sem uso de radiação ionizante, exceto ressonância magnética;#N/A
+;8;86;8640;8640208;Serviços de diagnóstico por registro gráfico - ECG, EEG e outros exames análogos;#N/A
+;8;86;8640;8640209;Serviços de diagnóstico por métodos ópticos - endoscopia e outros exames análogos;#N/A
+;8;86;8640;8640210;Serviços de quimioterapia;#N/A
+;8;86;8640;8640211;Serviços de radioterapia;#N/A
+;8;86;8640;8640212;Serviços de hemoterapia;#N/A
+;8;86;8640;8640213;Serviços de litotripcia;#N/A
+;8;86;8640;8640214;Serviços de bancos de células e tecidos humanos;#N/A
+;8;86;8640;8640299;Atividades de serviços de complementação diagnóstica e terapêutica não especificadas anteriormente;#N/A
+;8;86;8650;8650001;Atividades de enfermagem;#N/A
+;8;86;8650;8650002;Atividades de profissionais da nutrição;#N/A
+;8;86;8650;8650003;Atividades de psicologia e psicanálise;#N/A
+;8;86;8650;8650004;Atividades de fisioterapia;#N/A
+;8;86;8650;8650005;Atividades de terapia ocupacional;#N/A
+;8;86;8650;8650006;Atividades de fonoaudiologia;#N/A
+;8;86;8650;8650007;Atividades de terapia de nutrição enteral e parenteral;#N/A
+;8;86;8650;8650099;Atividades de profissionais da área de saúde não especificadas anteriormente;#N/A
+;8;86;8660;8660700;Atividades de apoio à gestão de saúde;#N/A
+;8;86;8690;8690901;Atividades de práticas integrativas e complementares em saúde humana;#N/A
+;8;86;8690;8690902;Atividades de banco de leite humano;#N/A
+;8;86;8690;8690903;Atividades de acupuntura;#N/A
+;8;86;8690;8690904;Atividades de podologia;#N/A
+;8;86;8690;8690999;Outras atividades de atenção à saúde humana não especificadas anteriormente;#N/A
+;8;87;8711;8711501;Clínicas e residências geriátricas;#N/A
+;8;87;8711;8711502;Instituições de longa permanência para idosos;#N/A
+;8;87;8711;8711503;Atividades de assistência a deficientes físicos, imunodeprimidos e convalescentes;#N/A
+;8;87;8711;8711504;Centros de apoio a pacientes com câncer e com AIDS;#N/A
+;8;87;8711;8711505;Condomínios residenciais para idosos e deficientes físicos;#N/A
+;8;87;8712;8712300;Atividades de fornecimento de infra-estrutura de apoio e assistência a paciente no domicílio;#N/A
+;8;87;8720;8720401;Atividades de centros de assistência psicossocial;#N/A
+;8;87;8720;8720499;Atividades de assistência psicossocial e à saúde a portadores de distúrbios psíquicos, deficiência mental e dependência química e grupos similares não;#N/A
+;8;87;8730;8730101;Orfanatos;#N/A
+;8;87;8730;8730102;Albergues assistenciais;#N/A
+;8;87;8730;8730199;Atividades de assistência social prestadas em residências coletivas e particulares não especificadas anteriormente;#N/A
+;8;88;8800;8800600;Serviços de assistência social sem alojamento;#N/A
+;9;90;9001;9001901;Produção teatral;#N/A
+;9;90;9001;9001902;Produção musical;#N/A
+;9;90;9001;9001903;Produção de espetáculos de dança;#N/A
+;9;90;9001;9001904;Produção de espetáculos circenses, de marionetes e similares;#N/A
+;9;90;9001;9001905;Produção de espetáculos de rodeios, vaquejadas e similares;#N/A
+;9;90;9001;9001906;Atividades de sonorização e de iluminação;#N/A
+;9;90;9001;9001999;Artes cênicas, espetáculos e atividades complementares não especificadas anteriormente;#N/A
+;9;90;9002;9002701;Atividades de artistas plásticos, jornalistas independentes e escritores;#N/A
+;9;90;9002;9002702;Restauração de obras-de-arte;#N/A
+;9;90;9003;9003500;Gestão de espaços para artes cênicas, espetáculos e outras atividades artísticas;#N/A
+;9;91;9101;9101500;Atividades de bibliotecas e arquivos;#N/A
+;9;91;9102;9102301;Atividades de museus e de exploração de lugares e prédios históricos e atrações similares;#N/A
+;9;91;9102;9102302;Restauração e conservação de lugares e prédios históricos;#N/A
+;9;91;9103;9103100;Atividades de jardins botânicos, zoológicos, parques nacionais, reservas ecológicas e áreas de proteção ambiental;#N/A
+;9;92;9200;9200301;Casas de bingo;#N/A
+;9;92;9200;9200302;Exploração de apostas em corridas de cavalos;#N/A
+;9;92;9200;9200399;Exploração de jogos de azar e apostas não especificados anteriormente;#N/A
+;9;93;9311;9311500;Gestão de instalações de esportes;#N/A
+;9;93;9312;9312300;Clubes sociais, esportivos e similares;#N/A
+;9;93;9313;9313100;Atividades de condicionamento físico;#N/A
+;9;93;9319;9319101;Produção e promoção de eventos esportivos;#N/A
+;9;93;9319;9319199;Outras atividades esportivas não especificadas anteriormente;#N/A
+;9;93;9321;9321200;Parques de diversão e parques temáticos;#N/A
+;9;93;9329;9329801;Discotecas, danceterias, salões de dança e similares;#N/A
+;9;93;9329;9329802;Exploração de boliches;#N/A
+;9;93;9329;9329803;Exploração de jogos de sinuca, bilhar e similares;#N/A
+;9;93;9329;9329804;Exploração de jogos eletrônicos recreativos;#N/A
+;9;93;9329;9329899;Outras atividades de recreação e lazer não especificadas anteriormente;#N/A
+;9;94;9411;9411100;Atividades de organizações associativas patronais e empresariais;#N/A
+;9;94;9412;9412000;Atividades de organizações associativas profissionais;#N/A
+;9;94;9412;9412001;Atividades de fiscalização profissional;#N/A
+;9;94;9412;9412099;Outras atividades associativas profissionais;#N/A
+;9;94;9420;9420100;Atividades de organizações sindicais;#N/A
+;9;94;9430;9430800;Atividades de associações de defesa de direitos sociais;#N/A
+;9;94;9491;9491000;Atividades de organizações religiosas ou filosóficas;#N/A
+;9;94;9492;9492800;Atividades de organizações políticas;#N/A
+;9;94;9493;9493600;Atividades de organizações associativas ligadas à cultura e à arte;#N/A
+;9;94;9499;9499500;Atividades associativas não especificadas anteriormente;#N/A
+;9;95;9511;9511800;Reparação e manutenção de computadores e de equipamentos periféricos;#N/A
+;9;95;9512;9512600;Reparação e manutenção de equipamentos de comunicação;#N/A
+;9;95;9521;9521500;Reparação e manutenção de equipamentos eletroeletrônicos de uso pessoal e doméstico;#N/A
+;9;95;9529;9529101;Reparação de calçados, bolsas e artigos de viagem;#N/A
+;9;95;9529;9529102;Chaveiros;#N/A
+;9;95;9529;9529103;Reparação de relógios;#N/A
+;9;95;9529;9529104;Reparação de bicicletas, triciclos e outros veículos não-motorizados;#N/A
+;9;95;9529;9529105;Reparação de artigos do mobiliário;#N/A
+;9;95;9529;9529106;Reparação de jóias;#N/A
+;9;95;9529;9529199;Reparação e manutenção de outros objetos e equipamentos pessoais e domésticos não especificados anteriormente;#N/A
+;9;96;9601;9601701;Lavanderias;#N/A
+;9;96;9601;9601702;Tinturarias;#N/A
+;9;96;9601;9601703;Toalheiros;#N/A
+;9;96;9602;9602501;Cabeleireiros, manicure e pedicure;#N/A
+;9;96;9602;9602502;Atividades de estética e outros serviços de cuidados com a beleza;#N/A
+;9;96;9603;9603301;Gestão e manutenção de cemitérios;#N/A
+;9;96;9603;9603302;Serviços de cremação;#N/A
+;9;96;9603;9603303;Serviços de sepultamento;#N/A
+;9;96;9603;9603304;Serviços de funerárias;#N/A
+;9;96;9603;9603305;Serviços de somatoconservação;#N/A
+;9;96;9603;9603399;Atividades funerárias e serviços relacionados não especificados anteriormente;#N/A
+;9;96;9609;9609201;Clinicas de estética e similares;#N/A
+;9;96;9609;9609202;Agências matrimoniais;#N/A
+;9;96;9609;9609203;Alojamento, higiene e embelezamento de animais;#N/A
+;9;96;9609;9609204;Exploração de máquinas de serviços pessoais acionadas por moeda;#N/A
+;9;96;9609;9609205;Atividades de sauna e banhos;#N/A
+;9;96;9609;9609206;Serviços de tatuagem e colocação de piercing;#N/A
+;9;96;9609;9609207;Alojamento de animais domésticos;#N/A
+;9;96;9609;9609208;Higiene e embelezamento de animais domésticos;#N/A
+;9;96;9609;9609299;Outras atividades de serviços pessoais não especificadas anteriormente;#N/A
+;9;97;9700;9700500;Serviços domésticos;#N/A
+;9;99;9900;9900800;Organismos internacionais e outras instituições extraterritoriais;#N/A
+;8;88;8888;8888888;Atividade Econônica não informada;#N/A
